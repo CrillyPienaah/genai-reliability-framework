@@ -315,7 +315,7 @@ export default function Home() {
         {/* ── Footer ── */}
         <footer style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <span style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-muted)' }}>
-            GenAI Reliability Framework · Christopher Dankwa · Northeastern University MPS Analytics 2026
+            GenAI Reliability Framework · Christopher Crilly Pienaah · Northeastern University MPS Analytics 2026
           </span>
           <span style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-muted)' }}>
             <a href="https://github.com/CrillyPienaah/genai-reliability-framework" target="_blank" rel="noreferrer">
@@ -327,6 +327,7 @@ export default function Home() {
     </div>
   )
 }
+
 
 
 
