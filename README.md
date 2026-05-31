@@ -195,7 +195,8 @@ This framework addresses the core challenge OSFI Guideline E-23 poses for GenAI:
 
 ## Author
 
-**Christopher Dankwa**
+**Christopher Crilly Pienaah**
 MPS Analytics (Applied Machine Intelligence), Northeastern University, 2026
 [LinkedIn](https://linkedin.com) · [Dockett](https://getdockett.ca)
+
 
