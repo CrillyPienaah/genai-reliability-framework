@@ -1,0 +1,25 @@
+HbA1c — Glycated Haemoglobin Reference
+
+DEFINITION:
+HbA1c (glycated haemoglobin, also written as haemoglobin A1c) is a measure of the average blood glucose concentration over the preceding 2 to 3 months. It reflects the percentage of haemoglobin molecules with glucose attached.
+
+HOW IT WORKS:
+Red blood cells have a lifespan of approximately 120 days. Glucose irreversibly binds to haemoglobin proportionally to ambient blood glucose concentrations. Higher average glucose → higher HbA1c.
+
+DIAGNOSTIC USE:
+HbA1c ≥ 6.5%: meets diagnostic criteria for diabetes mellitus (must be confirmed by repeat testing unless classic symptoms present)
+HbA1c 5.7-6.4%: prediabetes (impaired glucose regulation)
+HbA1c < 5.7%: normal
+
+TREATMENT TARGETS:
+General adult target (ADA guidelines): HbA1c < 7.0%
+Less stringent target (< 8.0%): appropriate for patients with hypoglycaemia unawareness, limited life expectancy, significant comorbidities, long-standing diabetes with difficult control
+More stringent target (< 6.5%): may be appropriate for selected patients early in disease course without hypoglycaemia risk
+
+A reading of 7.5% indicates blood glucose levels are above the standard treatment target of 7.0% for most adults with diabetes. This suggests a need to reassess diet, physical activity, and/or medication regimen in consultation with a healthcare provider.
+
+LIMITATIONS:
+HbA1c may be falsely low in haemolytic anaemia, haemoglobin variants (HbS, HbC), or iron deficiency (which reduces red cell lifespan). In these conditions, fructosamine or continuous glucose monitoring may be preferred.
+
+FREQUENCY OF TESTING:
+Twice yearly if at glycaemic target; quarterly if treatment changes or not at target.

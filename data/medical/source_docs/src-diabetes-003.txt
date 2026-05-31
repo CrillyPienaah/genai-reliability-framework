@@ -1,0 +1,22 @@
+Type 1 vs Type 2 Diabetes Mellitus — Comparison
+
+TYPE 1 DIABETES MELLITUS (T1DM):
+Pathophysiology: Autoimmune destruction of pancreatic beta cells leading to absolute insulin deficiency. T-cell mediated immune attack destroys the insulin-producing cells of the islets of Langerhans.
+
+Typical onset: Childhood, adolescence, or young adulthood (though can present at any age)
+Body habitus: Usually lean/normal weight at diagnosis
+C-peptide: Low or undetectable (reflects absent beta cell function)
+Autoantibodies: Positive in 90%+ (GAD65, IA-2, insulin autoantibodies, ZnT8)
+DKA risk: High — patients are prone to diabetic ketoacidosis without insulin
+
+Treatment: Requires insulin therapy — always. Multiple daily injections or continuous subcutaneous insulin infusion (insulin pump). Intensive glucose monitoring. No oral agents are effective as primary treatment.
+
+TYPE 2 DIABETES MELLITUS (T2DM):
+Pathophysiology: Combination of insulin resistance (peripheral tissues fail to respond normally to insulin) and relative insulin deficiency (beta cells cannot produce enough insulin to overcome resistance). Beta cells are not destroyed.
+
+Typical onset: Middle-age to older adults (though increasingly common in younger people with obesity)
+Risk factors: Obesity, physical inactivity, family history, ethnicity (South Asian, Indigenous, Hispanic), gestational diabetes history
+Body habitus: Strongly associated with overweight and obesity (BMI > 25-30 kg/m²)
+C-peptide: Normal or elevated initially (compensatory hyperinsulinaemia)
+
+Treatment: Lifestyle modification (diet, exercise, weight loss) + metformin first-line. Oral agents, non-insulin injectables (GLP-1 agonists), and eventually insulin when required. HbA1c, fasting glucose, and clinical context distinguish T1DM from T2DM. LADA (Latent Autoimmune Diabetes of Adults) can mimic T2DM initially.

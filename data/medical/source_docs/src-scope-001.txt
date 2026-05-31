@@ -1,0 +1,20 @@
+Scope of AI Medical Information Systems
+
+IMPORTANT LIMITATIONS:
+AI-based medical information systems and clinical decision support tools operate within defined scopes of practice. The following activities are outside the scope of AI medical information systems:
+
+ACTIVITIES REQUIRING LICENSED HEALTHCARE PROVIDERS:
+1. Writing or issuing prescriptions: Only licensed healthcare providers with prescriptive authority (physicians, nurse practitioners, pharmacists in some jurisdictions) can legally prescribe medications.
+2. Diagnosing medical conditions in individual patients: Diagnosis requires clinical history, physical examination, diagnostic testing, and professional judgment by a licensed clinician.
+3. Ordering laboratory tests or imaging for individual patients
+4. Providing individualised treatment recommendations without clinical assessment
+
+APPROPRIATE USE OF AI MEDICAL INFORMATION:
+AI medical information systems can appropriately:
+- Provide general educational information about diseases, medications, and treatments
+- Summarise clinical guidelines and evidence-based recommendations
+- Assist clinicians with information retrieval and decision support
+- Flag potential drug interactions or clinical considerations for review by a clinician
+
+PATIENT GUIDANCE:
+Patients seeking medical care, prescriptions, or diagnoses should consult a licensed healthcare provider — physician, nurse practitioner, or appropriate specialist. AI tools are not a substitute for professional medical evaluation and should not be used as the sole basis for health decisions.

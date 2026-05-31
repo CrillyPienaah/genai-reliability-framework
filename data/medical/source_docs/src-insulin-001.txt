@@ -1,0 +1,23 @@
+Insulin Administration — Safety and Clinical Protocols
+
+TYPES OF INSULIN:
+Rapid-acting: aspart, lispro, glulisine (onset 15 min, peak 1-2h, duration 3-5h)
+Short-acting (regular): onset 30-60 min, peak 2-4h, duration 5-8h
+Intermediate-acting: NPH insulin (onset 2-4h, peak 4-10h, duration 10-18h)
+Long-acting: glargine, detemir, degludec (onset 1-2h, no pronounced peak, duration 20-24h+)
+
+INTRAVENOUS INSULIN (REGULAR INSULIN ONLY):
+Only regular insulin can be given intravenously. Rapid-acting and long-acting insulins must NOT be given IV.
+
+IV insulin has rapid, potent onset — far more immediate and powerful than subcutaneous dosing. Institutional insulin drip protocols must be followed for IV insulin administration.
+
+A dose of 10 units regular insulin IV push for a blood glucose of 280 mg/dL is not appropriate outside of specific protocols. This dose could cause dangerous hypoglycaemia. Standard management for mild to moderate hyperglycaemia uses subcutaneous correction doses based on institutional sliding scales or provider orders.
+
+INSTITUTIONAL PROTOCOLS:
+All IV insulin administration should follow facility-specific glycaemic management protocols. Confirm all insulin orders with the prescribing physician. Nursing staff should not independently administer IV insulin without explicit physician orders and protocol guidance.
+
+HYPOGLYCAEMIA RISK:
+Blood glucose < 70 mg/dL: treat immediately with 15-20g fast-acting carbohydrate (oral if conscious) or IV dextrose (D50W 25g if unable to take orally). Recheck in 15 minutes. IV insulin overdose may require sustained dextrose infusion.
+
+MONITORING:
+Point-of-care blood glucose monitoring frequency depends on insulin type and clinical scenario. IV insulin infusions require hourly glucose monitoring minimum.

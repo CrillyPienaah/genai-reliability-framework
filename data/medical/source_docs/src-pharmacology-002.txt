@@ -1,0 +1,28 @@
+Metformin — Mechanism of Action and Clinical Pharmacology
+
+DRUG CLASS: Biguanide antihyperglycaemic agent
+
+PRIMARY MECHANISM OF ACTION:
+Metformin primarily acts by activating AMP-activated protein kinase (AMPK) in hepatic tissue. AMPK activation suppresses hepatic gluconeogenesis — the production of new glucose by the liver from non-carbohydrate precursors (lactate, amino acids, glycerol). Hepatic gluconeogenesis is the main driver of fasting hyperglycaemia in Type 2 diabetes mellitus.
+
+Additional mechanisms:
+- Improves peripheral insulin sensitivity in skeletal muscle, increasing glucose uptake
+- Reduces intestinal glucose absorption (minor contribution)
+- May alter gut microbiome and incretin hormone secretion
+
+MOLECULAR TARGET:
+Metformin inhibits Complex I of the mitochondrial electron transport chain, reducing ATP production and raising the AMP:ATP ratio, which activates AMPK. It also activates AMPK via AMPK kinase (LKB1)-dependent pathways.
+
+ADVANTAGES OVER OTHER ANTIDIABETIC AGENTS:
+- Does NOT stimulate insulin secretion — minimal hypoglycaemia risk as monotherapy (unlike sulfonylureas)
+- Weight-neutral or promotes modest weight loss (unlike insulin, sulfonylureas, thiazolidinediones)
+- No risk of hypoglycaemia when used alone
+- Cardiovascular outcome benefit demonstrated in UKPDS (United Kingdom Prospective Diabetes Study) in overweight T2DM patients
+- Inexpensive, widely available, oral administration
+- Long safety record (>60 years clinical use)
+
+LACTIC ACIDOSIS:
+Rare but serious adverse effect. Risk increases with renal impairment, hepatic failure, excessive alcohol use, conditions causing tissue hypoxia. Contraindicated in eGFR < 30 mL/min/1.73m².
+
+GASTROINTESTINAL SIDE EFFECTS:
+Nausea, diarrhoea, abdominal discomfort in up to 30% of patients — usually transient. Minimised by starting at low dose and titrating slowly, taking with food.

@@ -1,0 +1,34 @@
+Hyperkalaemia — Clinical Management
+
+DEFINITION AND CLASSIFICATION:
+Normal serum potassium: 3.5 to 5.0 mEq/L
+Mild hyperkalaemia: 5.1 to 5.9 mEq/L
+Moderate hyperkalaemia: 6.0 to 6.4 mEq/L
+Severe hyperkalaemia: ≥ 6.5 mEq/L or any level with ECG changes
+
+A potassium of 5.8 mEq/L represents mild to moderate hyperkalaemia. Risk of cardiac arrhythmias increases significantly above 6.0 mEq/L.
+
+ECG CHANGES (in order of increasing severity):
+1. Peaked (tall, narrow, symmetric) T waves — earliest change
+2. Prolonged PR interval
+3. Widened QRS complex
+4. Sine wave pattern
+5. Ventricular fibrillation / asystole
+
+CAUSES:
+Renal insufficiency (most common), ACE inhibitor or ARB use, potassium-sparing diuretics, hypoaldosteronism, acidosis, haemolysis, rhabdomyolysis, excessive potassium intake.
+
+TREATMENT:
+Calcium gluconate (10 mL of 10% solution IV): stabilises cardiac membrane — used when ECG changes present. Does NOT lower potassium. Onset within minutes.
+
+Insulin (10 units regular) + Glucose (25-50g dextrose): shifts potassium into cells. Onset 20-30 minutes, lowers K+ by 0.5-1.0 mEq/L.
+
+Sodium bicarbonate: in acidotic patients, shifts K+ intracellularly. Less effective in non-acidotic patients.
+
+Salbutamol (albuterol) nebulised: shifts K+ intracellularly. Lowers K+ by 0.5-1.5 mEq/L.
+
+Cation exchange resins (patiromer, sodium zirconium cyclosilicate): remove potassium from GI tract. Onset hours to days — not for acute management.
+
+Dietary restriction: limit high-potassium foods (bananas, oranges, potatoes, tomatoes).
+
+Dialysis: for severe, refractory hyperkalaemia or patients with end-stage renal disease.

@@ -1,0 +1,30 @@
+Antihypertensive Medications in Pregnancy
+
+ACE INHIBITORS AND ARBS IN PREGNANCY:
+ACE inhibitors (angiotensin-converting enzyme inhibitors) and ARBs (angiotensin receptor blockers) are absolutely contraindicated in pregnancy, particularly in the second and third trimesters.
+
+FDA CLASSIFICATION: Category D (second and third trimester) / Category X (some sources).
+
+FETOPATHY (ACE inhibitor/ARB embryofetopathy):
+Exposure during the second and third trimesters causes a specific pattern of fetal injury:
+- Renal tubular dysplasia and renal failure
+- Oligohydramnios (decreased amniotic fluid) due to fetal oliguria
+- Intrauterine growth restriction (IUGR)
+- Fetal and neonatal death
+- Limb contractures
+- Craniofacial deformities
+- Pulmonary hypoplasia (due to oligohydramnios)
+
+If a pregnant patient is found to be taking an ACE inhibitor or ARB, it should be immediately discontinued and switched to a safe alternative. Perform urgent obstetric ultrasound to assess amniotic fluid and fetal wellbeing.
+
+SAFE ANTIHYPERTENSIVES IN PREGNANCY:
+First-line options for hypertension in pregnancy:
+- Labetalol (oral or IV for severe hypertension) — most widely used
+- Nifedipine extended-release (oral) — well studied
+- Methyldopa (oral) — long safety record, first-line in some guidelines
+- Hydralazine (IV for acute severe hypertension)
+
+Avoid: ACE inhibitors, ARBs, direct renin inhibitors, thiazides (relative contraindication).
+
+TARGET BP IN PREGNANCY:
+For chronic hypertension in pregnancy: maintain systolic 110-160 mmHg and diastolic 80-105 mmHg. Avoid aggressive lowering which may compromise uteroplacental perfusion.

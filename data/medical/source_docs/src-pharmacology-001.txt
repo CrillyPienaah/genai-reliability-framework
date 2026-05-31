@@ -1,0 +1,30 @@
+Beta-Adrenergic Blockers (Beta-Blockers) — Pharmacology Reference
+
+MECHANISM OF ACTION:
+Beta-blockers competitively antagonize catecholamines (epinephrine and norepinephrine) at beta-adrenergic receptors. They bind beta receptors reversibly and dose-dependently.
+
+RECEPTOR SELECTIVITY:
+Beta-1 receptors (cardiac): located primarily in the heart and kidneys.
+Beta-2 receptors: located in bronchial smooth muscle, vascular smooth muscle, uterus, liver.
+
+Beta-1 selective (cardioselective) agents: metoprolol, atenolol, bisoprolol, nebivolol.
+Non-selective agents (block both beta-1 and beta-2): propranolol, carvedilol, labetalol.
+
+CARDIAC EFFECTS (Beta-1 blockade):
+- Reduces heart rate (negative chronotropy) by decreasing SA node automaticity
+- Reduces myocardial contractility (negative inotropy) — decreases cardiac output
+- Slows AV conduction velocity (negative dromotropy) — useful for rate control
+- Reduces blood pressure by lowering cardiac output and renin release
+
+PULMONARY EFFECTS (Beta-2 blockade):
+Non-selective beta-blockers cause bronchoconstriction — contraindicated in asthma and severe COPD.
+
+METABOLIC EFFECTS:
+Can mask tachycardia (a key warning sign of hypoglycaemia) — use with caution in insulin-dependent diabetes.
+Non-selective agents impair glycogenolysis and may prolong hypoglycaemia.
+
+CLINICAL USES:
+Hypertension, heart failure (carvedilol, metoprolol succinate, bisoprolol — with dose titration), angina pectoris, post-myocardial infarction, cardiac arrhythmias (rate control in atrial fibrillation), hyperthyroidism (symptom control), migraine prophylaxis, essential tremor, portal hypertension.
+
+CONTRAINDICATIONS:
+Cardiogenic shock, decompensated heart failure, severe bradycardia, high-degree AV block without pacemaker, asthma (non-selective agents).

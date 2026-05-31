@@ -1,0 +1,16 @@
+Drug Interactions — Warfarin and NSAIDs
+
+WARFARIN AND NSAID INTERACTIONS:
+Non-steroidal anti-inflammatory drugs (NSAIDs) including ibuprofen, naproxen, diclofenac, and aspirin significantly increase bleeding risk when combined with warfarin anticoagulation.
+
+MECHANISMS:
+1. Platelet inhibition: NSAIDs inhibit platelet aggregation by blocking cyclooxygenase (COX) enzymes, reducing thromboxane A2 synthesis. This impairs primary haemostasis independently of warfarin's effect on coagulation factors.
+
+2. Protein binding displacement: Some NSAIDs can displace warfarin from plasma protein binding sites (primarily albumin), transiently elevating free warfarin plasma concentrations and raising INR.
+
+3. GI mucosal damage: NSAIDs damage the gastric and intestinal mucosa, increasing the risk of gastrointestinal bleeding which is significantly more dangerous in anticoagulated patients.
+
+4. CYP2C9 inhibition: Some NSAIDs inhibit CYP2C9, the primary enzyme responsible for S-warfarin metabolism, leading to elevated warfarin plasma levels.
+
+CLINICAL RECOMMENDATION:
+Ibuprofen is contraindicated or should only be used with extreme caution and close INR monitoring in patients on warfarin. The combination significantly increases the risk of serious bleeding events including gastrointestinal haemorrhage and intracranial bleeding. Recommend consulting their anticoagulation clinic before any NSAID use. Safer alternatives for pain management in anticoagulated patients include acetaminophen at therapeutic doses.

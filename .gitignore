@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Eval outputs (don't commit run reports — they contain API costs)
+ci_report.json
+eval_reports/
+*.eval.json
+
+# Model artifacts
+*.bin
+*.pkl
+*.safetensors
+sentence_transformers/
+
+# Node (for UI)
+ui/node_modules/
+ui/.next/
+ui/.env.local
+
+# GCP credentials (NEVER commit)
+*.json
+!data/**/*.json
+!scripts/*.json
+gcp-credentials.json
+service-account-key.json

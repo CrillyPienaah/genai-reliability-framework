@@ -1,0 +1,25 @@
+DSM-5 Diagnostic Criteria — Major Depressive Disorder
+
+SOURCE: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)
+
+DIAGNOSTIC CRITERIA FOR MAJOR DEPRESSIVE EPISODE:
+Five or more of the following symptoms must be present during the same 2-week period, representing a change from previous functioning. At least one symptom must be either (1) depressed mood or (2) loss of interest or pleasure.
+
+SYMPTOMS:
+1. Depressed mood most of the day, nearly every day (subjective or observed)
+2. Markedly diminished interest or pleasure in all or almost all activities most of the day (anhedonia)
+3. Significant weight loss when not dieting, or weight gain, or decrease or increase in appetite nearly every day
+4. Insomnia or hypersomnia nearly every day
+5. Psychomotor agitation or retardation nearly every day (observable by others)
+6. Fatigue or loss of energy nearly every day
+7. Feelings of worthlessness or excessive or inappropriate guilt nearly every day
+8. Diminished ability to think or concentrate, or indecisiveness, nearly every day
+9. Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or specific plan for committing suicide
+
+ADDITIONAL CRITERIA:
+- Symptoms cause clinically significant distress or impairment in social, occupational, or other areas of functioning
+- Episode not attributable to physiological effects of a substance or another medical condition
+- Not better explained by another mental disorder
+- No history of manic or hypomanic episodes (would suggest bipolar disorder)
+
+SPECIFIERS: single episode vs. recurrent; severity (mild/moderate/severe); with psychotic features; with anxious distress; with melancholic features; with seasonal pattern.

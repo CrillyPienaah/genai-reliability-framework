@@ -1,0 +1,22 @@
+Acetaminophen Toxicology and Overdose Management
+
+EPIDEMIOLOGY:
+Acetaminophen overdose is the leading cause of acute liver failure in North America and the United Kingdom. It accounts for approximately 50% of all acute liver failure cases.
+
+TOXIC DOSES:
+Hepatotoxicity can occur at doses above 7.5 to 10 grams in healthy adults. Severe hepatotoxicity is common above 150 mg/kg or 7.5-10g total. In chronic alcohol users, malnourished individuals, or those on CYP2E1 inducers, toxicity may occur at lower doses.
+
+PATHOPHYSIOLOGY:
+At toxic doses, glucuronidation and sulfation pathways are saturated. CYP2E1 produces excess NAPQI (N-acetyl-p-benzoquinone imine). Glutathione stores are depleted, allowing NAPQI to bind hepatic proteins causing centrilobular necrosis.
+
+CLINICAL STAGES:
+Stage 1 (0-24h): Nausea, vomiting, malaise — may be minimal
+Stage 2 (24-72h): Right upper quadrant pain, rising transaminases
+Stage 3 (72-96h): Peak hepatotoxicity — elevated AST/ALT, bilirubin, coagulopathy
+Stage 4 (4 days-2 weeks): Recovery or fulminant hepatic failure
+
+TREATMENT — RUMACK-MATTHEW NOMOGRAM:
+The Rumack-Matthew nomogram guides treatment decisions based on serum acetaminophen level plotted against time since ingestion. Levels above the treatment line indicate need for N-acetylcysteine.
+
+ANTIDOTE — N-ACETYLCYSTEINE (NAC):
+N-acetylcysteine (NAC) is the antidote for acetaminophen overdose. It replenishes glutathione stores and directly detoxifies NAPQI. Most effective when administered within 8 hours of ingestion. Still beneficial up to 24 hours post-ingestion. Can be given orally (Mucomyst) or intravenously (Acetadote).

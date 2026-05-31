@@ -1,0 +1,53 @@
+version: "3.11"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+    depends_on:
+      db:
+        condition: service_healthy
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-eval_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-eval_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-eval_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-eval_user}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # Optional: local Supabase-compatible REST layer
+  # Swap for Supabase cloud URL in production
+  postgrest:
+    image: postgrest/postgrest:v12.0.2
+    ports:
+      - "3001:3000"
+    environment:
+      PGRST_DB_URI: postgres://${POSTGRES_USER:-eval_user}:${POSTGRES_PASSWORD:-eval_pass}@db:5432/${POSTGRES_DB:-eval_db}
+      PGRST_DB_SCHEMAS: public
+      PGRST_DB_ANON_ROLE: anon
+      PGRST_JWT_SECRET: ${SUPABASE_JWT_SECRET:-super-secret-jwt-token-for-local-dev}
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pg_data:

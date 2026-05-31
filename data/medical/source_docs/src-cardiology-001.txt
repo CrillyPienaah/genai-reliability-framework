@@ -1,0 +1,28 @@
+Cardiac Biomarkers — Troponin in Acute Coronary Syndromes
+
+CARDIAC TROPONINS:
+Troponin I (TnI) and Troponin T (TnT) are structural proteins of the cardiac myocyte contractile apparatus. They are released into the bloodstream when myocardial cell injury or death occurs.
+
+Cardiac troponin is the preferred biomarker for diagnosis of myocardial infarction (MI).
+
+HIGH-SENSITIVITY TROPONIN ASSAYS (hs-cTn):
+High-sensitivity troponin assays detect myocardial injury earlier and at lower concentrations. Serial measurements at 0 and 1-2 hours (or 0 and 3 hours) with high-sensitivity assays are the standard diagnostic approach.
+
+INTERPRETATION IN CHEST PAIN:
+In the context of ischaemic symptoms (chest pain, dyspnoea, jaw pain, left arm pain), elevated troponin above the 99th percentile URL (upper reference limit) with a dynamic rise or fall supports the diagnosis of acute myocardial infarction (AMI).
+
+NSTEMI (Non-ST elevation MI): elevated troponin without ST elevation on ECG
+STEMI (ST elevation MI): elevated troponin with ST elevation — requires emergent reperfusion
+
+CLINICAL CORRELATION IS ESSENTIAL:
+Troponin can be elevated in non-ischaemic conditions including:
+- Myocarditis (inflammation of myocardium)
+- Pulmonary embolism (right heart strain)
+- Decompensated heart failure
+- Renal failure (impaired clearance)
+- Sepsis and critical illness
+- Cardiac contusion
+- Cardioversion or ablation procedures
+- Rhabdomyolysis
+
+A rising and falling pattern (dynamic change) is more specific for AMI than a single elevated value. ECG interpretation, clinical history, and risk stratification are essential components of evaluation alongside troponin.

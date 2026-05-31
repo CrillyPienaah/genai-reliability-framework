@@ -1,0 +1,33 @@
+Anaphylaxis — Emergency Management
+
+DEFINITION:
+Anaphylaxis is a severe, life-threatening systemic hypersensitivity reaction. It is a medical emergency requiring immediate treatment.
+
+RECOGNITION:
+Anaphylaxis is likely when ANY ONE of the following three criteria is met:
+1. Acute onset illness with skin/mucosal involvement AND respiratory compromise or hypotension
+2. Two or more of the following after exposure to a likely allergen: skin/mucosal involvement, respiratory compromise, hypotension, persistent gastrointestinal symptoms
+3. Hypotension after exposure to a known allergen
+
+FIRST-LINE TREATMENT — EPINEPHRINE:
+Epinephrine (adrenaline) is the first-line and most important treatment for anaphylaxis. Do NOT delay epinephrine for antihistamines or corticosteroids.
+
+Adult dose: 0.3 to 0.5 mg of 1:1000 (1 mg/mL) solution — intramuscular injection into the lateral thigh (vastus lateralis muscle). Do NOT administer subcutaneously (slower absorption).
+Paediatric dose: 0.01 mg/kg of 1:1000 solution, maximum 0.5 mg — intramuscular lateral thigh.
+
+May repeat every 5-15 minutes if no improvement. Approximately 20-35% of anaphylaxis cases require more than one dose.
+
+IMMEDIATE ACTIONS:
+1. Call emergency services (911/999) immediately
+2. Administer intramuscular epinephrine into the lateral thigh
+3. Lay patient supine with legs elevated (unless respiratory distress or vomiting — then sit upright)
+4. Supplemental high-flow oxygen
+5. Establish IV access and administer isotonic IV fluids for hypotension
+
+ADJUNCT TREATMENTS (never replace epinephrine):
+- H1 antihistamines (diphenhydramine): relieve urticaria and pruritus but do NOT treat airway compromise or hypotension
+- Corticosteroids (methylprednisolone): may reduce biphasic reactions but have delayed onset — not for acute treatment
+- Bronchodilators (salbutamol/albuterol): for bronchospasm that persists after epinephrine
+
+BIPHASIC REACTION:
+Occurs in 1-20% of anaphylaxis cases. Symptoms recur 1-72 hours after initial resolution. Observe all anaphylaxis patients for minimum 4-6 hours after treatment.

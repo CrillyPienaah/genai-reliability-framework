@@ -1,0 +1,31 @@
+Sepsis — Sepsis-3 Definition and Clinical Management
+
+SEPSIS-3 DEFINITIONS (Singer et al., JAMA 2016):
+Sepsis: life-threatening organ dysfunction caused by a dysregulated host response to infection.
+Operationally defined by an acute increase in SOFA (Sequential Organ Failure Assessment) score of 2 or more points from baseline in a patient with suspected infection.
+
+Septic shock: a subset of sepsis with circulatory and cellular/metabolic abnormalities associated with substantially increased mortality. Clinically identified by:
+- Vasopressor requirement to maintain mean arterial pressure (MAP) ≥ 65 mmHg AND
+- Serum lactate > 2 mmol/L despite adequate fluid resuscitation
+
+SOFA SCORE:
+Assesses 6 organ systems: respiratory (PaO2/FiO2), coagulation (platelets), liver (bilirubin), cardiovascular (MAP/vasopressors), CNS (GCS), renal (creatinine/urine output).
+Baseline SOFA assumed 0 in patients without known organ dysfunction.
+
+QUICK SOFA (qSOFA) — BEDSIDE SCREENING TOOL:
+Three criteria (1 point each):
+1. Respiratory rate ≥ 22 breaths per minute
+2. Altered mentation (GCS < 15)
+3. Systolic blood pressure ≤ 100 mmHg
+
+qSOFA ≥ 2 suggests high risk of poor outcome in patients with suspected infection. Prompt SOFA assessment and sepsis workup indicated.
+
+HOUR-1 BUNDLE (Surviving Sepsis Campaign):
+1. Measure lactate. Remeasure if initial > 2 mmol/L
+2. Obtain blood cultures before administering antibiotics
+3. Administer broad-spectrum antibiotics within 1 hour
+4. Begin 30 mL/kg crystalloid for hypotension or lactate ≥ 4 mmol/L
+5. Apply vasopressors (norepinephrine first-line) if patient is hypotensive during or after fluid resuscitation to maintain MAP ≥ 65 mmHg
+
+MORTALITY:
+Sepsis mortality approximately 10-20%; septic shock mortality 40-60%.

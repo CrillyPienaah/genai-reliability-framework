@@ -1,0 +1,19 @@
+Acetaminophen (Paracetamol) — Clinical Reference
+
+Acetaminophen is an analgesic and antipyretic medication widely used for pain relief and fever reduction. It is available over-the-counter in many countries.
+
+DOSING — ADULTS:
+The maximum recommended daily dose of acetaminophen for a healthy adult is 4,000 mg (4 grams) per day. Many clinicians recommend a more conservative limit of 3,000 mg per day to provide an additional safety margin, particularly for patients who consume alcohol or have borderline liver function.
+
+Individual doses should not exceed 1,000 mg. Doses should be spaced at least 4 to 6 hours apart to allow adequate metabolism between doses.
+
+HEPATOTOXICITY RISK:
+Acetaminophen is metabolised primarily in the liver. At therapeutic doses, the majority is conjugated via glucuronidation and sulfation pathways. A small fraction is oxidised by CYP2E1 to the reactive metabolite NAPQI, which is normally detoxified by glutathione. At excessive doses, glutathione stores are depleted and NAPQI accumulates, causing centrilobular hepatic necrosis.
+
+Risk factors for hepatotoxicity at lower doses include: chronic alcohol use, malnutrition, fasting, and inducers of CYP2E1.
+
+OVERDOSE:
+Acetaminophen overdose is the leading cause of acute liver failure in North America and the United Kingdom. Toxicity can occur at doses above 7.5 to 10 grams in adults. The Rumack-Matthew nomogram guides treatment decisions based on serum acetaminophen level and time since ingestion. N-acetylcysteine (NAC) is the antidote and is most effective when administered within 8 hours of ingestion.
+
+CONTRAINDICATIONS:
+Severe hepatic impairment. Use with caution in patients with chronic liver disease, alcoholism, or glucose-6-phosphate dehydrogenase (G6PD) deficiency.

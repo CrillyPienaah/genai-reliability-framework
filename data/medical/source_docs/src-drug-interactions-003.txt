@@ -1,0 +1,29 @@
+St. John's Wort — Drug Interactions
+
+ST. JOHN'S WORT (Hypericum perforatum):
+St. John's Wort is a herbal supplement commonly used for mild to moderate depression. It is available over-the-counter and widely used without physician oversight.
+
+SEROTONIN SYNDROME RISK WITH ANTIDEPRESSANTS:
+St. John's Wort is contraindicated with most antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs).
+
+Combining St. John's Wort with SSRIs (fluoxetine, sertraline, escitalopram, paroxetine, citalopram) or SNRIs (venlafaxine, duloxetine) creates serious risk of serotonin syndrome.
+
+SEROTONIN SYNDROME:
+A potentially life-threatening condition caused by excess serotonergic activity. Characterised by the clinical triad of:
+1. Neuromuscular abnormalities: clonus (most specific sign), hyperreflexia, myoclonus, tremor, ataxia
+2. Autonomic dysfunction: hyperthermia, diaphoresis, tachycardia, hypertension, diarrhoea
+3. Altered mental status: agitation, confusion, anxiety
+
+Severe cases: hyperthermia > 41°C, rhabdomyolysis, metabolic acidosis, renal failure, disseminated intravascular coagulation (DIC), respiratory failure.
+
+CYP3A4 INDUCTION:
+St. John's Wort is a potent inducer of CYP3A4 and P-glycoprotein (P-gp). This reduces plasma concentrations of many medications metabolised by CYP3A4, including:
+- Oral contraceptives (risk of unintended pregnancy)
+- Antiretrovirals (cyclosporine, HIV protease inhibitors)
+- Warfarin (reduced anticoagulation)
+- Digoxin
+- Benzodiazepines
+- Calcium channel blockers
+
+CLINICAL RECOMMENDATION:
+Patients should always inform their prescriber of all herbal supplements before starting or combining with prescription medications. Never combine St. John's Wort with antidepressants.

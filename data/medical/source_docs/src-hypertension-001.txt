@@ -1,0 +1,30 @@
+Hypertension — Diagnosis and Management
+
+BLOOD PRESSURE CLASSIFICATION (ACC/AHA 2017):
+Normal: < 120/80 mmHg
+Elevated: 120-129 / < 80 mmHg
+Stage 1 Hypertension: 130-139 / 80-89 mmHg
+Stage 2 Hypertension: ≥ 140/90 mmHg
+Hypertensive Crisis: > 180/120 mmHg
+
+DIAGNOSIS:
+A single elevated blood pressure reading of 160/95 mmHg does not necessarily require immediate pharmacotherapy. Hypertension is typically diagnosed after 2 to 3 readings on separate occasions over weeks to months, unless the reading is severely elevated or end-organ damage is present.
+
+Confirm with ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring when possible to exclude white-coat hypertension.
+
+EVALUATION:
+Before initiating treatment, evaluate for:
+- Secondary causes: renal artery stenosis, primary hyperaldosteronism, pheochromocytoma, thyroid dysfunction
+- End-organ damage: ECG (LVH), urinalysis (proteinuria), creatinine, fundoscopy
+- Cardiovascular risk: lipids, glucose, smoking history, family history
+
+LIFESTYLE MODIFICATION (FIRST-LINE FOR ALL STAGES):
+DASH diet (Dietary Approaches to Stop Hypertension), sodium restriction to < 2,300 mg/day, regular aerobic exercise 150 min/week, weight loss if overweight, limit alcohol, smoking cessation.
+
+PHARMACOTHERAPY:
+Antihypertensives are indicated for:
+- Persistent Stage 2 hypertension (≥ 140/90 mmHg) confirmed on repeat readings
+- Stage 1 hypertension with high cardiovascular risk
+- Any stage with end-organ damage
+
+First-line agents: ACE inhibitors or ARBs, thiazide diuretics, calcium channel blockers. Beta-blockers for compelling indications (heart failure, post-MI, atrial fibrillation).

@@ -1,0 +1,20 @@
+Insomnia and Sleep Aids — Clinical Reference
+
+MELATONIN:
+Melatonin is an endogenous hormone produced by the pineal gland that regulates circadian rhythm. Exogenous melatonin is available over-the-counter in many countries as a sleep supplement.
+
+SAFETY:
+Melatonin is generally considered safe for short-term use over weeks to a few months. Long-term safety data are limited — robust randomised controlled trials beyond 3-6 months are lacking.
+
+Melatonin is not habit-forming and does not cause dependence or tolerance as seen with benzodiazepines or Z-drugs. It does not suppress endogenous melatonin production with short-term use.
+
+Quality control varies widely for over-the-counter supplements, including melatonin.
+
+DOSING:
+Recommended doses: typically 0.5 to 5 mg taken 30 to 60 minutes before the desired sleep time. Lower doses (0.5-1 mg) may be as effective as higher doses for sleep onset. Higher doses do not necessarily improve efficacy and may cause next-day grogginess.
+
+EVIDENCE BASE:
+Meta-analyses support modest benefit for sleep onset latency (falling asleep faster) and circadian rhythm disorders (jet lag, shift work). Effect size is modest — reduces sleep onset by approximately 7-12 minutes.
+
+PREFERRED TREATMENT FOR CHRONIC INSOMNIA:
+Cognitive behavioural therapy for insomnia (CBT-I) is the evidence-based first-line treatment for chronic insomnia disorder. CBT-I is more effective than pharmacotherapy in the long term with no adverse effects. Pharmacotherapy (including melatonin) is appropriate for short-term use but not recommended as primary treatment for chronic insomnia.

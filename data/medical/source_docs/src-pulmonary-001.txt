@@ -1,0 +1,37 @@
+Pulmonary Embolism — Diagnosis and Clinical Presentation
+
+DEFINITION:
+Pulmonary embolism (PE) is obstruction of the pulmonary arterial system, most commonly by thrombus originating from deep vein thrombosis (DVT) in the lower extremities.
+
+CLINICAL PRESENTATION:
+PE presentation varies widely from asymptomatic to sudden death.
+
+Classic symptoms:
+- Sudden onset dyspnoea (most common symptom, present in ~80% of cases)
+- Pleuritic chest pain (sharp, worsens with breathing — suggests pulmonary infarction)
+- Haemoptysis (coughing blood — less common, suggests infarction)
+- Tachycardia (heart rate > 100 bpm — common, non-specific)
+
+Massive PE symptoms:
+- Hypotension (systolic BP < 90 mmHg)
+- Syncope or presyncope
+- Right heart strain
+
+Many PEs are clinically silent and found incidentally on imaging.
+
+RISK FACTORS (Virchow's Triad):
+Stasis: prolonged immobilisation, long-haul travel, hospitalisation, heart failure
+Hypercoagulability: malignancy, pregnancy, oral contraceptives, thrombophilia, antiphospholipid syndrome
+Endothelial injury: recent surgery, trauma, central venous catheter
+
+DIAGNOSIS:
+Clinical probability: Wells criteria score (pre-test probability assessment)
+D-dimer: high sensitivity, low specificity — useful to exclude PE in low/moderate probability
+CT pulmonary angiography (CTPA): gold standard for diagnosis
+Ventilation-perfusion (V/Q) scan: alternative when CTPA contraindicated
+Echocardiography: for haemodynamically unstable patients
+
+TREATMENT:
+Anticoagulation: heparin (UFH or LMWH) followed by warfarin or direct oral anticoagulants (DOACs — apixaban, rivaroxaban preferred).
+Thrombolysis: for massive PE with haemodynamic instability.
+Embolectomy: surgical or catheter-directed for selected cases.

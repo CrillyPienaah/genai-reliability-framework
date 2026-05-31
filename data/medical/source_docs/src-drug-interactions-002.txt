@@ -1,0 +1,26 @@
+Lithium Toxicity — Drug Interactions and Clinical Management
+
+LITHIUM PHARMACOKINETICS:
+Lithium has a narrow therapeutic index. Therapeutic serum levels: 0.6-1.2 mEq/L for maintenance therapy; 0.8-1.2 mEq/L for acute mania. Toxic levels: > 1.5 mEq/L (mild-moderate), > 2.0 mEq/L (severe), > 2.5 mEq/L (life-threatening).
+
+Lithium is renally excreted. The kidneys reabsorb lithium in proportion to sodium — when sodium is depleted, lithium reabsorption increases, raising plasma levels.
+
+DEHYDRATION AND LITHIUM TOXICITY:
+Dehydration significantly increases lithium toxicity risk. Gastroenteritis causes fluid and sodium losses. As the body conserves sodium due to dehydration, the kidneys reabsorb more lithium, leading to lithium accumulation and toxicity.
+
+This interaction is clinically important: any condition causing dehydration (vomiting, diarrhoea, fever, excessive sweating, diuretic use) can precipitate lithium toxicity at previously therapeutic doses.
+
+SYMPTOMS OF LITHIUM TOXICITY:
+Mild (1.5-2.0 mEq/L): Tremor, nausea, vomiting, diarrhoea, drowsiness
+Moderate (2.0-2.5 mEq/L): Coarse tremor, ataxia, confusion, slurred speech, muscle twitching
+Severe (> 2.5 mEq/L): Seizures, cardiac arrhythmias, hypotension, coma, permanent neurological damage
+
+MANAGEMENT:
+1. Advise holding or reducing lithium dose during acute illness with dehydration
+2. Monitor serum lithium levels urgently
+3. Ensure adequate IV hydration to restore sodium balance
+4. Seek emergency care if symptoms of toxicity are present
+5. Haemodialysis for severe toxicity (levels > 2.5 mEq/L with severe symptoms)
+
+OTHER INTERACTIONS RAISING LITHIUM LEVELS:
+NSAIDs (reduce renal lithium clearance), ACE inhibitors, thiazide diuretics, sodium-restricted diets.

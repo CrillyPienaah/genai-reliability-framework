@@ -1,0 +1,33 @@
+Opioid Safety and Respiratory Depression
+
+OPIOID-INDUCED RESPIRATORY DEPRESSION:
+Respiratory depression is the most dangerous adverse effect of opioid medications. Opioids act on mu-opioid receptors in the brainstem respiratory centres, reducing respiratory rate and tidal volume.
+
+RECOGNITION:
+Warning signs of opioid-induced respiratory depression:
+- Respiratory rate < 12 breaths per minute (bradypnoea)
+- Respiratory rate of 8 breaths per minute indicates significant respiratory depression
+- Decreased oxygen saturation (SpO2 < 90%)
+- Constricted (pinpoint) pupils — miosis
+- Decreased level of consciousness / sedation
+- Cyanosis (late sign)
+
+A respiratory rate of 8 breaths per minute is near the threshold for respiratory arrest, particularly in opioid-naive patients or those who have received recent doses. This requires immediate assessment.
+
+MORPHINE AND RESPIRATORY DEPRESSION:
+Morphine must NOT be administered to a patient with a respiratory rate of 8 breaths per minute or significant respiratory depression. Administering additional opioids in this setting can precipitate respiratory arrest.
+
+OPIOID OVERDOSE TRIAD:
+1. Miosis (pinpoint pupils)
+2. Unconsciousness / decreased level of consciousness
+3. Respiratory depression (rate < 12/min)
+
+NALOXONE (NARCAN) — OPIOID ANTAGONIST:
+Naloxone reverses opioid-induced respiratory depression by competitively blocking mu-opioid receptors.
+
+Dose: 0.4 to 2 mg IV/IM/SC or intranasal. May repeat every 2-3 minutes up to 10 mg. Use lower doses (0.04-0.1 mg) in opioid-dependent patients to avoid precipitating acute withdrawal.
+
+Onset: IV — within 2 minutes. Duration: 30-90 minutes (shorter than most opioids — repeat dosing or infusion may be required).
+
+AIRWAY:
+Ensure airway protection. Bag-mask ventilation if respiratory rate critically low. Prepare for potential intubation if no response to naloxone.

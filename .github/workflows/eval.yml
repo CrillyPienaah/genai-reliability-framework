@@ -1,0 +1,122 @@
+name: Eval CI Gate
+
+on:
+  pull_request:
+    branches: [main, develop]
+  push:
+    branches: [main]
+
+jobs:
+  # ── Fast unit tests — always run ──────────────────────────────────────────
+  unit-tests:
+    name: Unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -e ".[dev]"
+          python -m spacy download en_core_web_sm
+
+      - name: Run unit tests
+        run: pytest tests/unit/ -v --cov=src --cov-report=xml
+
+      - name: Upload coverage
+        uses: codecov/codecov-action@v4
+        with:
+          files: ./coverage.xml
+        continue-on-error: true
+
+  # ── Smoke eval suite — runs on PRs with API keys available ───────────────
+  eval-regression-gate:
+    name: Eval regression gate
+    runs-on: ubuntu-latest
+    # Only run if the PR has access to secrets (not forks without secrets)
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    needs: unit-tests
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -e ".[dev]"
+          python -m spacy download en_core_web_sm
+
+      - name: Run smoke eval suite (20 cases — fast)
+        id: eval
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_CLOUD_PROJECT: ${{ secrets.GOOGLE_CLOUD_PROJECT }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          BOOTSTRAP_ITERATIONS: "200"  # Faster in CI — 200 vs 1000
+          CI_HALLUCINATION_THRESHOLD: "0.15"
+          CI_ACCURACY_DROP_THRESHOLD: "0.02"
+        run: |
+          python scripts/ci_eval.py \
+            --model gpt-4o-mini \
+            --domain medical \
+            --n 20 \
+            --output ci_report.json
+
+      - name: Parse CI gate result
+        id: gate
+        run: |
+          python scripts/parse_ci_report.py --report ci_report.json
+
+      - name: Post eval summary as PR comment
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('ci_report.json', 'utf8'));
+            const passed = report.ci_gate_passed;
+            const emoji = passed ? '✅' : '❌';
+            const body = `## ${emoji} Eval CI Gate — ${passed ? 'PASSED' : 'FAILED'}
+
+            | Metric | Value | CI (95%) | Gate |
+            |--------|-------|----------|------|
+            | Accuracy | ${(report.accuracy_mean * 100).toFixed(1)}% | [${(report.accuracy_ci_lower * 100).toFixed(1)}%, ${(report.accuracy_ci_upper * 100).toFixed(1)}%] | ${report.accuracy_gate ? '✅' : '❌'} |
+            | Hallucination Rate | ${(report.hallucination_rate_mean * 100).toFixed(1)}% | — | ${report.hallucination_gate ? '✅' : '❌'} |
+            | Grounding Score | ${(report.grounding_score_mean * 100).toFixed(1)}% | — | — |
+            | Avg Cost / 1K tokens | $${report.avg_cost_usd.toFixed(4)} | — | — |
+            | p95 Latency | ${report.p95_latency_ms.toFixed(0)}ms | — | — |
+
+            ${!passed ? '> ⚠️ **This PR has caused a statistically significant regression. Please review the eval results before merging.**' : '> All eval thresholds passed. Safe to merge.'}
+
+            _Run ID: ${report.run_id} · Model: ${report.model_id} · ${report.n_cases} cases_`;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
+
+      - name: Fail job on eval regression
+        if: steps.gate.outputs.gate_passed != 'true'
+        run: |
+          echo "::error::Eval CI gate failed — statistically significant regression detected."
+          exit 1
+
+      - name: Upload eval report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-report-${{ github.sha }}
+          path: ci_report.json
+          retention-days: 30

@@ -1,0 +1,19 @@
+Penicillin Allergy and Cephalosporin Cross-Reactivity — Clinical Reference
+
+BACKGROUND:
+Penicillin allergy is the most commonly reported drug allergy, affecting approximately 10% of the population. However, studies show that up to 90% of patients who report penicillin allergy are not truly allergic when formally evaluated.
+
+CROSS-REACTIVITY WITH CEPHALOSPORINS:
+Historical estimates of cross-reactivity between penicillins and cephalosporins were as high as 10%, leading to widespread avoidance. However, modern evidence demonstrates the true cross-reactivity rate is approximately 1-2%, primarily driven by shared R1 side chains rather than the beta-lactam ring itself.
+
+CLINICAL GUIDANCE:
+Patients with a documented penicillin allergy can often take cephalosporins, but with caution based on the severity of the prior reaction:
+
+1. Patients with mild reactions (rash, gastrointestinal symptoms): cephalosporins may be used with observation.
+2. Patients with severe immediate hypersensitivity reactions (anaphylaxis, urticaria within 1 hour): allergy evaluation including skin testing is recommended before cephalosporin use.
+3. Cross-reactivity is highest between penicillins and first-generation cephalosporins sharing similar R1 side chains (e.g., ampicillin and cefadroxil).
+
+EVALUATION OPTIONS:
+Allergy testing or graded challenge may be appropriate for patients with penicillin allergy who require beta-lactam therapy. Penicillin skin testing has high negative predictive value. Allergy referral is recommended for patients with history of severe reactions who require cephalosporin therapy.
+
+The cross-reactivity rate of 1-2% is much lower than historically believed, and the risk of withholding beta-lactam antibiotics often outweighs the risk of allergic reaction in properly evaluated patients.

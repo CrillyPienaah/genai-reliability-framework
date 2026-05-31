@@ -1,0 +1,28 @@
+Antidepressant Discontinuation Syndrome
+
+DEFINITION:
+Antidepressant discontinuation syndrome (also called antidepressant withdrawal syndrome) occurs when antidepressant medications are abruptly stopped or rapidly tapered after prolonged use. It is not the same as addiction or dependence.
+
+PREVALENCE:
+Occurs in approximately 20-40% of patients who abruptly discontinue antidepressants after 4 or more weeks of use. Risk increases with longer duration of treatment (months to years).
+
+MNEMONIC — FINISH:
+F — Flu-like symptoms (fatigue, myalgia, sweating, chills)
+I — Insomnia (disturbed sleep, vivid dreams, nightmares)
+N — Nausea (and other gastrointestinal symptoms)
+I — Imbalance (dizziness, vertigo, ataxia)
+S — Sensory disturbances ("brain zaps" — electrical shock sensations, paraesthesias)
+H — Hyperarousal (anxiety, agitation, irritability, crying spells)
+
+ONSET AND DURATION:
+Symptoms typically begin 2-4 days after discontinuation (or dose reduction) and resolve within 1-2 weeks with gradual taper, or can persist longer without tapering.
+
+ANTIDEPRESSANTS BY DISCONTINUATION RISK:
+Highest risk: paroxetine, venlafaxine (due to short half-life)
+Moderate risk: sertraline, citalopram, escitalopram, duloxetine
+Lowest risk: fluoxetine (very long half-life of 4-6 days — self-tapers naturally)
+
+MANAGEMENT:
+Gradual taper over weeks to months under physician supervision. Taper schedule depends on medication, dose, duration of use, and patient factors. Fluoxetine has the lowest risk due to its long half-life, which allows slow self-tapering. If symptoms emerge despite tapering, temporarily increase dose and taper more slowly.
+
+Never abruptly discontinue antidepressants without physician supervision, particularly after long-term use.

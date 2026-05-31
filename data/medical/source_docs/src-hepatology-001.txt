@@ -1,0 +1,25 @@
+Child-Pugh Score — Liver Disease Severity Assessment
+
+DEFINITION AND PURPOSE:
+The Child-Pugh score (also Child-Turcotte-Pugh score) is a clinical scoring system used to assess the severity of chronic liver disease, particularly cirrhosis. It is used to predict prognosis, surgical risk, and guide treatment decisions including liver transplant listing.
+
+PARAMETERS (each scored 1-3):
+1. Total bilirubin (mg/dL): < 2 (1 pt), 2-3 (2 pts), > 3 (3 pts)
+2. Serum albumin (g/dL): > 3.5 (1 pt), 2.8-3.5 (2 pts), < 2.8 (3 pts)
+3. Prothrombin time / INR: INR < 1.7 (1 pt), 1.7-2.3 (2 pts), > 2.3 (3 pts)
+4. Ascites: absent (1 pt), mild/controlled (2 pts), moderate-severe/refractory (3 pts)
+5. Hepatic encephalopathy: none (1 pt), grade 1-2 (2 pts), grade 3-4 (3 pts)
+
+CLASSIFICATION:
+Child-Pugh Class A: 5-6 points — well-compensated cirrhosis — 1-year survival ~100%, 2-year ~85%
+Child-Pugh Class B: 7-9 points — significant functional compromise — 1-year survival ~80%, 2-year ~60%
+Child-Pugh Class C: 10-15 points — decompensated cirrhosis — 1-year survival ~45%, 2-year ~35%
+
+CLINICAL APPLICATIONS:
+- Surgical risk stratification: Class A — low risk; Class B — moderate risk; Class C — high operative mortality (generally contraindicates elective surgery)
+- Transplant listing criteria (used alongside MELD score)
+- Drug dosing adjustments in hepatic impairment
+- Prognosis discussion with patients
+
+LIMITATIONS:
+Some components (ascites, encephalopathy) are subjective. The MELD score (Model for End-Stage Liver Disease) is now preferred for transplant prioritisation due to better predictive validity.

@@ -1,0 +1,27 @@
+Normal Vital Signs in Adults — Clinical Reference
+
+HEART RATE:
+Normal resting heart rate for adults: 60 to 100 beats per minute (bpm).
+Bradycardia: heart rate below 60 bpm. May be normal in well-trained athletes (as low as 40 bpm) or pathological.
+Tachycardia: heart rate above 100 bpm. Requires further evaluation if persistent.
+
+Well-trained athletes may have a resting heart rate as low as 40 bpm due to increased vagal tone and cardiac efficiency. This is physiologically normal.
+
+BLOOD PRESSURE:
+Normal: systolic < 120 mmHg and diastolic < 80 mmHg
+Elevated: systolic 120-129 mmHg and diastolic < 80 mmHg
+Stage 1 hypertension: systolic 130-139 mmHg or diastolic 80-89 mmHg
+Stage 2 hypertension: systolic ≥ 140 mmHg or diastolic ≥ 90 mmHg
+
+RESPIRATORY RATE:
+Normal: 12 to 20 breaths per minute
+Tachypnoea: > 20 breaths per minute
+Bradypnoea: < 12 breaths per minute
+
+TEMPERATURE:
+Normal oral temperature: 36.1°C to 37.2°C (97°F to 99°F)
+Fever: oral temperature ≥ 38.0°C (100.4°F)
+
+OXYGEN SATURATION (SpO2):
+Normal: 95-100%
+Hypoxaemia: < 95% (requires clinical evaluation)

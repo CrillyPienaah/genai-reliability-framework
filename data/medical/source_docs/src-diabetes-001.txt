@@ -1,0 +1,23 @@
+Type 2 Diabetes Mellitus — First-Line Treatment Guidelines
+
+OVERVIEW:
+Type 2 diabetes mellitus (T2DM) is a metabolic disorder characterised by insulin resistance and relative insulin deficiency. Management involves lifestyle modification and pharmacotherapy.
+
+FIRST-LINE TREATMENT:
+Metformin combined with lifestyle modification (diet and exercise) is the established first-line treatment for uncomplicated Type 2 diabetes according to guidelines from the American Diabetes Association (ADA), Canadian Diabetes Association (CDA), and the European Association for the Study of Diabetes (EASD).
+
+METFORMIN:
+Metformin is a biguanide that primarily reduces hepatic glucose output by activating AMPK. It does not stimulate insulin secretion and therefore carries minimal hypoglycaemia risk as monotherapy. It is weight-neutral or promotes modest weight loss. The UKPDS demonstrated cardiovascular outcome benefit with metformin in overweight patients with T2DM.
+
+Starting dose: 500 mg once or twice daily with meals, titrated gradually to reduce gastrointestinal side effects. Maximum effective dose: 2,000–2,550 mg/day.
+
+Contraindications: eGFR < 30 mL/min/1.73m², active liver disease, excessive alcohol use, conditions predisposing to lactic acidosis.
+
+ALTERNATIVES WHEN METFORMIN IS CONTRAINDICATED OR NOT TOLERATED:
+If metformin is contraindicated or not tolerated, alternatives include:
+- SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin) — preferred in patients with cardiovascular disease or heart failure
+- GLP-1 receptor agonists (semaglutide, liraglutide) — preferred in patients with obesity or cardiovascular disease
+- DPP-4 inhibitors (sitagliptin, saxagliptin) — well tolerated, weight neutral
+- Sulfonylureas — effective but carry hypoglycaemia risk and weight gain
+
+Treatment selection depends on patient comorbidities, preferences, cost, and tolerability.

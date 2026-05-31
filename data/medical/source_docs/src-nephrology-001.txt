@@ -1,0 +1,29 @@
+Metformin and Chronic Kidney Disease — Dosing Guidance
+
+BACKGROUND:
+Metformin is primarily renally excreted (unchanged, not metabolised). In renal impairment, metformin accumulates, increasing the risk of lactic acidosis. Historically, metformin was contraindicated in any degree of renal impairment, but current guidelines support use in mild-moderate CKD with appropriate precautions.
+
+eGFR-BASED DOSING GUIDANCE (ADA/KDIGO):
+eGFR ≥ 60 mL/min/1.73m²: metformin is safe at standard doses (up to 2,550 mg/day)
+eGFR 45-59 mL/min/1.73m²: metformin may be continued with caution; monitor renal function every 3-6 months
+eGFR 30-44 mL/min/1.73m²: use with caution at reduced doses (maximum 1,000 mg/day); more frequent renal monitoring; risk-benefit discussion required
+eGFR < 30 mL/min/1.73m²: metformin is contraindicated — stop immediately
+
+An eGFR of 55 mL/min/1.73m² represents CKD Stage 3a. Metformin is generally safe to use at this level with caution and monitoring.
+
+MONITORING:
+Check eGFR at least every 3-6 months in patients on metformin with CKD Stage 3. Reassess dose or discontinue if eGFR declines.
+
+CONTRAST PROCEDURES:
+Hold metformin on the day of contrast administration and for 48 hours afterward if eGFR < 60 mL/min/1.73m². Resume after confirming renal function is stable.
+
+PATIENT COUNSELLING:
+Advise patients on metformin about the small risk of lactic acidosis. Instruct to withhold metformin during illness causing dehydration, vomiting, diarrhoea, or any condition reducing renal perfusion.
+
+CKD STAGING (KDIGO):
+Stage 1: eGFR ≥ 90 (with kidney damage markers)
+Stage 2: eGFR 60-89
+Stage 3a: eGFR 45-59
+Stage 3b: eGFR 30-44
+Stage 4: eGFR 15-29
+Stage 5: eGFR < 15 (kidney failure)

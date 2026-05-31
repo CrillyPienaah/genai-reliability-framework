@@ -1,0 +1,24 @@
+Aspirin in Secondary Prevention of Cardiovascular Disease
+
+EVIDENCE BASE:
+Aspirin (acetylsalicylic acid) is a cornerstone of secondary prevention in patients with established cardiovascular disease, including prior myocardial infarction (MI), stroke, and peripheral arterial disease.
+
+Post-MI antiplatelet therapy with aspirin is a Class I, Level A recommendation from ACC/AHA guidelines. It significantly reduces the risk of recurrent MI, cardiovascular death, and stroke. The UKPDS, ISIS-2, and multiple meta-analyses have demonstrated absolute risk reductions of 1-3% per year in high-risk secondary prevention populations.
+
+MECHANISM:
+Aspirin irreversibly inhibits cyclooxygenase (COX-1 and COX-2), reducing thromboxane A2 synthesis and platelet aggregation. At low doses (75-162 mg), antiplatelet effect is maximised while GI side effects are minimised.
+
+DOSE:
+Low-dose aspirin: 75-100 mg daily (or 81 mg in North America). Higher doses do not provide greater cardiovascular benefit but increase GI bleeding risk.
+
+GASTROINTESTINAL SIDE EFFECTS:
+GI adverse effects (dyspepsia, gastritis, GI bleeding) are common concerns. Strategies to reduce GI side effects:
+1. Take aspirin with food
+2. Use enteric-coated (EC) formulation — note: evidence for GI mucosal protection from EC aspirin is mixed; it delays but may not prevent GI bleeding
+3. Add proton pump inhibitor (PPI) for high-risk patients: prior GI bleeding, H. pylori infection, concurrent NSAID use, age > 70, anticoagulant use
+4. H. pylori eradication if infection present
+
+ABSOLUTE CARDIOVASCULAR BENEFIT VS. BLEEDING RISK:
+In secondary prevention (post-MI), the absolute cardiovascular benefit of aspirin substantially outweighs the GI bleeding risk for the vast majority of patients. This is different from primary prevention where the risk-benefit ratio is more nuanced.
+
+Discontinuing aspirin after MI requires a shared decision-making conversation with the cardiologist, not a unilateral patient decision.
