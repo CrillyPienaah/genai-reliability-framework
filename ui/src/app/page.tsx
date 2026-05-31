@@ -166,7 +166,8 @@ export default function Home() {
             gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))',
             gap: 12,
             marginBottom: '2rem',
-          }} className="animate-in" style={{ animationDelay: '80ms' }}>
+            animationDelay: '80ms',
+          }} className="animate-in">
             <MetricCard
               label="Best accuracy"
               value={`${(bestRun.accuracy_mean * 100).toFixed(1)}%`}
@@ -312,3 +313,4 @@ export default function Home() {
     </div>
   )
 }
+
