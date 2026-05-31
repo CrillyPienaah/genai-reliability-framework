@@ -53,3 +53,6 @@ ui/.env.local
 !scripts/*.json
 gcp-credentials.json
 service-account-key.json
+
+!ui/*.json
+!ui/src/**/*.json
