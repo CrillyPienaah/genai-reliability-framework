@@ -1,3 +1,5 @@
+**Live demo:** https://genai-reliability-framework.vercel.app
+
 # GenAI Reliability Framework
 
 > **How do we safely deploy LLMs in highly regulated medical and financial workflows where the cost of a hallucination is catastrophic?**
@@ -196,3 +198,4 @@ This framework addresses the core challenge OSFI Guideline E-23 poses for GenAI:
 **Christopher Dankwa**
 MPS Analytics (Applied Machine Intelligence), Northeastern University, 2026
 [LinkedIn](https://linkedin.com) · [Dockett](https://getdockett.ca)
+
