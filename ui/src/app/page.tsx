@@ -39,20 +39,6 @@ const SEED_RUNS: LeaderboardEntry[] = [
     p95_latency_ms: 6397,
     ci_gate_passed: true,
   },
-  {
-    run_id: 'cac95fbe-827c-43c7-aae0-14aae31e5c02',
-    model_display_name: 'GPT-4o Mini',
-    model_id: 'gpt-4o-mini',
-    domain: 'finance',
-    accuracy_mean: 0.935,
-    accuracy_ci_lower: 0.892,
-    accuracy_ci_upper: 0.970,
-    hallucination_rate_mean: 0.350,
-    grounding_score_mean: 1.000,
-    avg_cost_usd: 0.0002,
-    p95_latency_ms: 6397,
-    ci_gate_passed: true,
-  },
   // Placeholder rows — populated when you run more models
   {
     run_id: 'pending-gpt4o',
@@ -341,6 +327,7 @@ export default function Home() {
     </div>
   )
 }
+
 
 
 
