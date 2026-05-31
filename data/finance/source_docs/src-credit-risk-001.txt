@@ -1,0 +1,16 @@
+Credit Risk Management — Loan Loss Provisions and Credit Analysis
+
+LOAN LOSS PROVISIONS (PROVISION FOR CREDIT LOSSES — PCL):
+A provision for credit losses is an accounting estimate of expected future credit losses charged to the income statement. It increases the allowance for credit losses (ACL) on the balance sheet.
+
+PCL is a forward-looking estimate — it does not mean losses have been realised. Banks increase provisions when they expect future credit deterioration based on: macroeconomic forecasts, portfolio risk migration, sector stress, or regulatory guidance.
+
+An increase in PCL quarter-over-quarter indicates the bank expects higher future losses. This can reflect: (1) prudent conservatism in a deteriorating environment, (2) IFRS 9 stage migration from Stage 1 to Stage 2, (3) growth in the loan book, (4) a specific large credit event. Context is essential — a $500 million PCL increase on a $600 billion loan book (0.08% annualised) is very different from the same increase on a $50 billion book (1.0% annualised).
+
+CREDIT ANALYSIS — LEVERAGE RATIOS:
+Debt-to-equity (D/E) ratio = Total Debt / Shareholders' Equity. Measures financial leverage.
+Industry context is critical: utilities and real estate investment trusts (REITs) typically have D/E ratios of 1.5-3.0x due to capital intensity. Technology companies at 2.5x D/E would be considered highly leveraged.
+Supporting metrics: interest coverage ratio (EBIT / interest expense; >3x is generally adequate), debt service coverage ratio (DSCR), net debt / EBITDA.
+
+LLM CREDIT MEMO ACCURACY:
+When an AI model generates a credit memo, all financial figures must be verified against audited financial statements. Audited financials are the authoritative source. If an LLM-generated revenue figure of $50 million contradicts audited financials showing $35 million, the LLM figure must be rejected — a 43% overstatement of revenue would materially inflate assessed repayment capacity and violate credit policy limits.

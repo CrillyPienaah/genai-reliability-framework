@@ -1,0 +1,31 @@
+Basel III Liquidity Standards — LCR and NSFR
+
+LIQUIDITY COVERAGE RATIO (LCR):
+The LCR requires banks to hold sufficient High-Quality Liquid Assets (HQLA) to survive a 30-day stressed outflow scenario.
+
+Formula: LCR = Stock of HQLA / Total Net Cash Outflows over 30 days ≥ 100%
+
+HQLA Definition:
+Level 1 assets (0% haircut): cash, central bank reserves, sovereign bonds (0% risk weight)
+Level 2A assets (15% haircut): certain sovereign bonds, covered bonds, high-grade corporate bonds
+Level 2B assets (25-50% haircut): lower-rated corporate bonds, equity securities (subject to caps)
+Level 2 assets capped at 40% of total HQLA.
+
+Net Cash Outflows = Cash Outflows - min(Cash Inflows, 75% of Cash Outflows)
+Outflow rates vary by liability type: retail deposits 3-10%, wholesale funding 25-100%, committed credit facilities 10-30%.
+
+OSFI requires Canadian D-SIBs to maintain LCR ≥ 100% at all times.
+
+NET STABLE FUNDING RATIO (NSFR):
+The NSFR addresses structural liquidity risk over a one-year horizon.
+
+Formula: NSFR = Available Stable Funding (ASF) / Required Stable Funding (RSF) ≥ 100%
+
+ASF components (weighted by stability factor): equity and long-term debt >1yr (100%), stable retail deposits (95%), less stable deposits (90%), wholesale funding <6 months (50%), short-term wholesale funding <3 months (0-50%).
+
+RSF components reflect funding requirements: HQLA (0-5% RSF), residential mortgages (65%), other loans (85-100%), off-balance-sheet commitments (5-10%).
+
+KEY DIFFERENCE FROM LCR:
+LCR = 30-day stress horizon (short-term liquidity survival)
+NSFR = 1-year structural funding horizon (sustainable funding profile)
+Both ratios are required and complementary.

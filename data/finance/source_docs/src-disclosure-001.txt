@@ -1,0 +1,19 @@
+Financial Disclosure Standards and Analyst Obligations
+
+SECURITIES DISCLOSURE REQUIREMENTS:
+Under Canadian securities law (National Instrument 51-102, provincial Securities Acts), public companies must provide accurate, complete, and timely disclosure of material information. Misrepresentation in financial statements or analyst reports constitutes a securities violation.
+
+A material misrepresentation is one that a reasonable investor would consider important in making an investment decision. Revenue growth of 15% vs. actual 12% is a 3 percentage point (25% relative) overstatement — this is material.
+
+ANALYST OBLIGATIONS:
+CFA Institute Code of Ethics and Standards of Professional Conduct require members to:
+- Present only accurate, complete, and balanced information
+- Use reasonable judgment and distinguish fact from opinion
+- Not knowingly misrepresent or omit material facts
+
+CIRO (Canadian Investment Regulatory Organization) rules require dealers and their representatives to:
+- Deal fairly, honestly, and in good faith with clients
+- Provide accurate information in research reports and recommendations
+
+AUDITED FINANCIAL STATEMENTS AS AUTHORITATIVE SOURCE:
+Audited financial statements, prepared under IFRS or ASPE and audited by an independent external auditor, are the authoritative source of a company's financial performance. When AI-generated summaries conflict with audited figures, the audited figures must prevail.

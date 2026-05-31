@@ -1,0 +1,28 @@
+Market Risk — Value at Risk and Expected Shortfall
+
+VALUE AT RISK (VaR):
+VaR is a statistical measure of the maximum potential loss over a specified time horizon at a given confidence level.
+
+CORRECT INTERPRETATION:
+99% 1-day VaR of $100 million means: on 99% of trading days, losses will NOT exceed $100 million.
+Equivalently: on approximately 1% of trading days (about 2-3 days per year), losses WILL exceed $100 million.
+
+CRITICAL MISUNDERSTANDING:
+VaR does NOT mean the maximum possible loss is $100 million. In the 1% tail, losses could be significantly larger — $200 million, $500 million, or more. VaR says nothing about the severity of losses beyond the threshold.
+
+LIMITATIONS OF VaR:
+1. Tail risk underestimation: VaR ignores the magnitude of losses in the tail.
+2. Not sub-additive: Portfolio VaR can exceed the sum of individual VaRs.
+3. Normal distribution assumption: Historical or parametric VaR may underestimate fat-tail events.
+4. Procyclicality: VaR-based limits can force selling during market stress, amplifying losses.
+
+EXPECTED SHORTFALL (ES / CVaR):
+Expected Shortfall = Average loss in the worst (1 - confidence level)% of scenarios.
+97.5% ES = Average of losses in the worst 2.5% of scenarios.
+ES addresses VaR's tail risk problem by measuring the average severity of losses beyond the VaR threshold, not just whether they occur.
+
+REGULATORY SHIFT:
+Basel III's Fundamental Review of the Trading Book (FRTB) replaced 99% VaR with 97.5% Expected Shortfall for calculating market risk regulatory capital. This change was specifically to address VaR's failure to capture tail risk adequately.
+
+CANADIAN IMPLEMENTATION:
+OSFI implemented FRTB requirements for Canadian banks. Market risk capital is now based on ES at 97.5% confidence rather than VaR at 99%.

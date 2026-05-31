@@ -1,0 +1,31 @@
+Bank of Canada — Monetary Policy Framework
+
+PRIMARY MONETARY POLICY TOOL:
+The Bank of Canada's primary monetary policy tool is the target for the overnight rate — the interest rate at which major financial institutions borrow and lend one-day (overnight) funds among themselves in the Large Value Transfer System (LVTS/Lynx).
+
+The Bank sets the overnight rate target at 8 fixed announcement dates per year (approximately every 6-7 weeks).
+
+TRANSMISSION MECHANISM:
+Overnight rate changes transmit to the broader economy through:
+1. Prime Rate: Typically set at overnight rate + 220 basis points. Basis for variable-rate mortgages and lines of credit.
+2. Bond markets: Rate expectations influence Government of Canada bond yields and fixed mortgage rates.
+3. Exchange rate: Rate differentials affect the Canadian dollar.
+4. Asset prices: Lower rates support higher equity and real estate valuations.
+5. Credit conditions: Rate changes affect borrowing costs for businesses and consumers.
+
+INFLATION TARGET:
+The Bank of Canada operates under a flexible inflation targeting framework with:
+- Target: 2% (midpoint of 1-3% control range)
+- Horizon: 18-24 months (forward-looking)
+- Instrument: Overnight rate adjustments
+
+When inflation is above 2% target: Bank raises overnight rate to cool demand and borrowing.
+When inflation is below target or recession risk is high: Bank lowers overnight rate to stimulate activity.
+
+PRIME RATE RELATIONSHIP:
+Prime rate = Overnight rate target + 220 basis points (by convention among major Canadian banks).
+If overnight rate is 3.0%, prime rate = 5.2%.
+Variable-rate mortgages are typically priced at prime ± a spread (e.g., prime - 0.5%).
+
+QUANTITATIVE EASING (QE):
+During COVID-19 (2020-2021), the Bank deployed QE — purchasing Government of Canada bonds to lower long-term rates and provide additional monetary stimulus. QE was wound down and quantitative tightening (QT) began in 2022 as inflation rose.

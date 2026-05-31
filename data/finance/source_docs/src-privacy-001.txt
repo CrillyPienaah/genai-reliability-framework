@@ -1,0 +1,23 @@
+Canadian Bank Privacy Obligations — PIPEDA and Bank Act
+
+PIPEDA (PERSONAL INFORMATION PROTECTION AND ELECTRONIC DOCUMENTS ACT):
+PIPEDA governs how federally regulated private sector organisations — including banks — collect, use, and disclose personal information in the course of commercial activities.
+
+Key principles relevant to financial institutions:
+1. Consent: Personal information may only be collected, used, or disclosed with knowledge and consent of the individual, subject to limited exceptions.
+2. Limited Collection: Collect only the information necessary for the identified purpose.
+3. Limited Use/Disclosure: Use and disclose information only for the purpose for which it was collected.
+4. Safeguards: Protect personal information with appropriate security measures.
+
+CLIENT ACCOUNT INFORMATION:
+A client's bank account balance, transaction history, and financial products are personal information under PIPEDA. This information cannot be disclosed to third parties — including the client's employer — without:
+(a) The client's explicit consent, or
+(b) A legal requirement (court order, lawful authority under statute)
+
+An employer requesting a client's account balance has no legal right to this information. The bank must refuse and cannot share the information, regardless of the employer's stated reason.
+
+BANK ACT CONFIDENTIALITY:
+Section 244 of the Bank Act prohibits a bank from disclosing information about a customer's financial affairs to any person without the customer's permission or a legal requirement. Violation of this provision is a serious compliance matter.
+
+REQUIRED ACTIONS:
+Bank employee receiving such a request must: (1) decline to provide the information, (2) not confirm or deny account details, (3) advise the requestor to obtain client consent, (4) escalate to the bank's privacy/compliance officer, (5) document the request.

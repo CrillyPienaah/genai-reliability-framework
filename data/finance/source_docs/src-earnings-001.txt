@@ -1,0 +1,25 @@
+Bank Earnings Reporting — Q3 2025 Sample Reference
+
+SAMPLE CANADIAN BANK Q3 2025 EARNINGS DATA (ILLUSTRATIVE):
+
+Net Income: $3.8 billion (reported net income attributable to common shareholders)
+Revenue (Total): $14.2 billion
+Net Interest Income: $8.9 billion
+Non-Interest Income: $5.3 billion
+Provision for Credit Losses: $1.1 billion
+Non-Interest Expenses: $7.8 billion
+Efficiency Ratio: 54.9%
+CET1 Ratio: 13.2%
+Return on Equity: 14.7%
+Diluted EPS: $2.64
+
+ACCURACY REQUIREMENTS FOR LLM SUMMARIES:
+All numerical figures in AI-generated earnings summaries must exactly match the reported figures. A net income figure of $4.2 billion when the actual reported figure is $3.8 billion represents a $400 million (10.5%) overstatement. This is not an acceptable margin of error in financial reporting.
+
+Consequences of inaccurate AI-generated earnings summaries:
+- Investor misinformation leading to incorrect investment decisions
+- Regulatory violations under securities disclosure rules
+- Reputational damage to the bank and the AI system provider
+- Potential liability under securities legislation
+
+LLM outputs containing financial figures must be validated against source documents (press releases, MD&A, financial statements) before use.

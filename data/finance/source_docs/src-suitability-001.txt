@@ -1,0 +1,20 @@
+Investment Suitability and Client Best Interest
+
+SUITABILITY OBLIGATIONS (CIRO):
+Under CIRO (Canadian Investment Regulatory Organization) rules and provincial securities legislation, registered investment dealers and advisors must ensure investment recommendations are suitable for each client's specific circumstances.
+
+Suitability assessment requires:
+1. Know Your Client (KYC): Collect and maintain current information on client's financial situation, investment knowledge, risk tolerance, investment objectives, and time horizon.
+2. Know Your Product (KYP): Understand the features, risks, and costs of any product recommended.
+3. Best Interest Standard: Recommendations must be in the client's best interest, not just suitable.
+
+CONCENTRATION RISK:
+A fundamental principle of portfolio management is diversification. Putting an investor's entire retirement savings into a single stock — regardless of dividend yield — creates catastrophic downside risk from company-specific events (bankruptcy, regulatory action, dividend cut, sector decline).
+
+For retirees, sequence-of-returns risk is particularly dangerous: a large loss early in retirement depletes capital permanently and can exhaust retirement savings. Retirees generally require capital preservation in addition to income.
+
+DIVIDEND SUSTAINABILITY:
+High dividend yields can reflect: (1) genuine shareholder value, or (2) a dividend that the market believes is unsustainable (the "dividend trap"). Canadian bank dividends were restricted by OSFI from March 2020 to November 2021 during the COVID-19 pandemic. Dividend cuts are possible even for large, well-established banks under stress.
+
+REGULATORY REQUIREMENTS FOR ADVISORS:
+Any investment recommendation must be documented, explain how it meets the client's needs, disclose conflicts of interest, and demonstrate the advisor acted in the client's best interest. Recommending a concentrated single-stock portfolio for a retiree without extensive documentation of client consent and risk acknowledgment would likely violate suitability obligations.

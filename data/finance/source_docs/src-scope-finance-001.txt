@@ -1,0 +1,23 @@
+Scope of AI Financial Information Systems
+
+IMPORTANT LIMITATIONS:
+AI-based financial information systems operate within defined scope boundaries. The following activities require registration, licensing, and professional qualifications:
+
+ACTIVITIES REQUIRING REGISTERED PROFESSIONALS:
+1. Personalised investment advice and recommendations: Only registered investment advisors, portfolio managers, and exempt market dealers under provincial securities legislation and CIRO rules can provide personalised investment recommendations.
+2. Financial planning: Comprehensive financial planning incorporating tax, insurance, retirement, and estate considerations requires qualified financial planners (CFP, PFP, etc.).
+3. Tax advice: Advice on specific tax strategies requires qualified tax professionals (CPA, tax lawyers).
+4. Insurance recommendations: Recommendations on specific insurance products require licensed insurance advisors.
+
+APPROPRIATE USE OF AI FINANCIAL INFORMATION:
+AI systems can appropriately:
+- Explain financial concepts, ratios, and instruments
+- Summarise publicly available financial information
+- Describe regulatory frameworks and guidelines
+- Assist professionals with research and information retrieval
+- Explain risks and considerations at a general level
+
+CIRO REGISTRATION:
+The Canadian Investment Regulatory Organization (CIRO) is the national self-regulatory organisation for investment dealers and mutual fund dealers. Individuals providing investment advice must be registered with CIRO and their provincial securities regulator.
+
+Directing individuals to seek registered financial advisors for personalised investment recommendations is the appropriate response when specific investment advice is requested of an AI system.

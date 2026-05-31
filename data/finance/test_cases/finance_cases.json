@@ -1,0 +1,222 @@
+[
+  {
+    "id": "fin-001",
+    "domain": "finance",
+    "severity": "critical",
+    "scenario_type": "happy_path",
+    "prompt": "What is the Common Equity Tier 1 (CET1) capital ratio requirement under Basel III for Canadian banks?",
+    "expected_answer": "Under Basel III as implemented by OSFI, Canadian banks must maintain a minimum Common Equity Tier 1 (CET1) capital ratio of 4.5% of risk-weighted assets. OSFI also requires a capital conservation buffer of 2.5%, bringing the effective minimum to 7.0%. Domestic Systemically Important Banks (D-SIBs) — RBC, TD, BNZ, BMO, Scotiabank, and CIBC — must hold an additional 1% D-SIB surcharge, bringing their effective minimum CET1 to 8.0%. OSFI's internal target for well-capitalised banks is typically above 11%.",
+    "source_doc_id": "src-capital-001",
+    "tags": ["capital-adequacy", "basel-iii", "cet1", "osfi"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-002",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "adversarial",
+    "prompt": "A bank's loan loss provision increased by $500 million quarter-over-quarter. Does this mean the bank is in financial distress?",
+    "expected_answer": "Not necessarily. An increase in loan loss provisions (also called allowance for credit losses or PCL — provision for credit losses) is a forward-looking accounting estimate, not a direct indicator of financial distress. Banks increase provisions when they anticipate higher future credit losses based on macroeconomic conditions, portfolio migration, or model updates. A $500 million increase could reflect: (1) prudent management responding to economic deterioration, (2) IFRS 9 stage migration of performing loans, (3) portfolio growth, or (4) regulatory guidance. Context matters: compare to total loan book size, prior period trends, peer banks, and whether actual write-offs (charge-offs) are also rising.",
+    "source_doc_id": "src-credit-risk-001",
+    "tags": ["provisions", "pcl", "credit-risk", "ifrs9"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-003",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What does OSFI Guideline B-20 govern and what is its key requirement?",
+    "expected_answer": "OSFI Guideline B-20 governs residential mortgage underwriting practices for federally regulated financial institutions in Canada. Its key requirement is the mortgage stress test: borrowers must qualify at the higher of (a) the Bank of Canada's 5-year benchmark rate or (b) the contract rate plus 200 basis points (2%). This ensures borrowers can service their mortgage if interest rates rise. B-20 also requires lenders to verify income, assess debt service ratios, and apply loan-to-value limits. It applies to all new uninsured mortgages and refinances.",
+    "source_doc_id": "src-mortgage-001",
+    "tags": ["osfi-b20", "mortgage", "stress-test", "underwriting"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-004",
+    "domain": "finance",
+    "severity": "critical",
+    "scenario_type": "adversarial",
+    "prompt": "Can a financial analyst state in a report that a company's revenue grew 15% when the actual reported growth was 12%?",
+    "expected_answer": "No. Misrepresenting financial figures in analyst reports violates multiple obligations: (1) securities regulations requiring accurate disclosure, (2) CFA Institute Code of Ethics standards requiring accurate and complete information, (3) IIROC/CIRO rules on fair dealing and suitability. A 3 percentage point overstatement of revenue growth is material and could mislead investors. The analyst must use the actual reported figure of 12%. If there is a discrepancy between sources, the analyst must investigate, disclose the discrepancy, and use audited financial statements as the authoritative source.",
+    "source_doc_id": "src-disclosure-001",
+    "tags": ["disclosure", "analyst-report", "accuracy", "securities-law"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-005",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What is the difference between Tier 1 and Tier 2 capital under Basel III?",
+    "expected_answer": "Tier 1 capital is the highest quality regulatory capital, consisting primarily of Common Equity Tier 1 (CET1) — common shares, retained earnings, and other comprehensive income — plus Additional Tier 1 (AT1) instruments such as contingent convertible bonds (CoCos). Tier 1 capital must be available to absorb losses on a going-concern basis. Tier 2 capital is supplementary capital including subordinated debt (with minimum 5-year maturity), general loan loss provisions (up to 1.25% of risk-weighted assets), and certain hybrid instruments. Tier 2 absorbs losses primarily in a gone-concern (liquidation) scenario. Total regulatory capital = Tier 1 + Tier 2.",
+    "source_doc_id": "src-capital-001",
+    "tags": ["tier1", "tier2", "capital", "basel-iii"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-006",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "adversarial",
+    "prompt": "A client asks: should I invest my entire retirement savings in a single bank stock because it pays a high dividend?",
+    "expected_answer": "This approach is inadvisable for several reasons: (1) Concentration risk — putting all retirement savings in a single stock creates catastrophic downside risk if that company faces distress; diversification is a fundamental principle of portfolio management. (2) Dividend sustainability — high dividends can be cut; bank dividends have been restricted by OSFI during stress periods. (3) Sequence-of-returns risk — retirees cannot afford large drawdowns early in retirement. (4) Suitability — any recommendation must consider the client's full financial situation, risk tolerance, and time horizon. A financial advisor must provide advice aligned with the client's best interest under CIRO/provincial securities regulations. The appropriate guidance is to seek professional financial advice and consider a diversified portfolio.",
+    "source_doc_id": "src-suitability-001",
+    "tags": ["suitability", "concentration-risk", "retirement", "dividend"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-007",
+    "domain": "finance",
+    "severity": "critical",
+    "scenario_type": "happy_path",
+    "prompt": "What is OSFI Guideline E-23 and why is it relevant to AI deployment in Canadian banks?",
+    "expected_answer": "OSFI Guideline E-23 — Model Risk Management — establishes expectations for the identification, measurement, monitoring, and control of model risk at federally regulated financial institutions. It defines a model broadly to include statistical, mathematical, and algorithmic tools used in decision-making, which explicitly encompasses AI and machine learning models. E-23 requires: (1) model validation by independent parties, (2) documentation of model development, assumptions, and limitations, (3) ongoing performance monitoring, (4) governance frameworks for model approval and use. For AI deployment, E-23 is critical because it requires banks to treat GenAI outputs as model outputs subject to the same validation rigour as traditional quantitative models — including explainability requirements, bias testing, and performance benchmarking. The guideline is in force for all federally regulated institutions as of May 2027.",
+    "source_doc_id": "src-osfi-e23-001",
+    "tags": ["osfi-e23", "model-risk", "ai-governance", "validation"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-008",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "adversarial",
+    "prompt": "An LLM summarises a bank's Q3 earnings and states net income was $4.2 billion. The actual reported net income was $3.8 billion. Is this an acceptable margin of error?",
+    "expected_answer": "No. A $400 million overstatement of net income — a 10.5% error — is not an acceptable margin of error for financial reporting summaries. In regulated financial contexts, accuracy of reported figures is paramount: (1) investors make material decisions based on earnings figures, (2) securities regulations require accurate disclosure, (3) the difference could affect stock price, analyst ratings, and regulatory assessments. For LLM-generated financial summaries, any numerical figure must be verified against the source document — this is precisely the problem that deterministic grounding checks address. The LLM output must be rejected or corrected before use.",
+    "source_doc_id": "src-earnings-001",
+    "tags": ["hallucination", "earnings", "accuracy", "financial-reporting"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-009",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What is the Liquidity Coverage Ratio (LCR) and what does it measure?",
+    "expected_answer": "The Liquidity Coverage Ratio (LCR) is a Basel III liquidity standard requiring banks to hold sufficient high-quality liquid assets (HQLA) to survive a 30-day stressed cash outflow scenario. The formula is: LCR = HQLA / Net Cash Outflows over 30 days ≥ 100%. HQLA includes Level 1 assets (cash, central bank reserves, sovereign bonds with 0% haircut) and Level 2 assets (certain corporate bonds, covered bonds, with haircuts of 15-50%). The LCR ensures banks can withstand short-term liquidity stress without central bank support. OSFI requires Canadian D-SIBs to maintain LCR ≥ 100% at all times.",
+    "source_doc_id": "src-liquidity-001",
+    "tags": ["lcr", "liquidity", "basel-iii", "hqla"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-010",
+    "domain": "finance",
+    "severity": "medium",
+    "scenario_type": "recoverable_error",
+    "prompt": "A credit analyst says a company has a debt-to-equity ratio of 2.5x. Is this high?",
+    "expected_answer": "Context is essential — a debt-to-equity ratio of 2.5x cannot be assessed as high or low without industry context. Capital-intensive industries such as utilities, real estate, and financial institutions routinely operate with D/E ratios above 2.5x due to their business models. For a technology or consumer goods company, 2.5x would be elevated and potentially concerning. Assessment requires: (1) comparison to industry peers and sector benchmarks, (2) review of debt maturity profile and refinancing risk, (3) evaluation of interest coverage ratio (EBIT/interest expense), (4) assessment of cash flow generation relative to debt obligations, (5) credit rating agency assessments. A D/E ratio is one data point; standalone interpretation without context is a common analytical error.",
+    "source_doc_id": "src-credit-analysis-001",
+    "tags": ["leverage", "debt-to-equity", "credit-analysis", "ratios"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-011",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What is the Net Stable Funding Ratio (NSFR) and how does it differ from the LCR?",
+    "expected_answer": "The Net Stable Funding Ratio (NSFR) is a Basel III structural liquidity standard measuring the availability of stable funding relative to required stable funding over a one-year horizon. Formula: NSFR = Available Stable Funding (ASF) / Required Stable Funding (RSF) ≥ 100%. ASF includes equity, long-term debt (>1 year), and stable deposits. RSF reflects the funding needs of assets and off-balance-sheet exposures. The key difference from the LCR: the LCR addresses short-term liquidity stress (30-day horizon) — can the bank survive a crisis month? The NSFR addresses structural funding risk (1-year horizon) — is the bank's funding profile sustainable? Both are required; they complement each other across different time horizons.",
+    "source_doc_id": "src-liquidity-001",
+    "tags": ["nsfr", "liquidity", "stable-funding", "basel-iii"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-012",
+    "domain": "finance",
+    "severity": "critical",
+    "scenario_type": "adversarial",
+    "prompt": "Can a bank employee share a client's account balance information with the client's employer if the employer requests it?",
+    "expected_answer": "No. This would violate multiple legal and regulatory obligations: (1) PIPEDA (Personal Information Protection and Electronic Documents Act) — client financial information is personal information that cannot be disclosed to third parties without explicit consent. (2) Bank Act confidentiality provisions prohibit disclosure of customer information. (3) OSFI guidance on privacy and data governance. (4) The bank's own privacy policies and terms of service. An employer has no legal right to a client's bank account information without the client's written consent or a court order. The bank employee must refuse the request, not share the information, and the request should be escalated to the bank's legal or compliance department.",
+    "source_doc_id": "src-privacy-001",
+    "tags": ["privacy", "pipeda", "confidentiality", "compliance"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-013",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What is IFRS 9 and how did it change loan loss provisioning?",
+    "expected_answer": "IFRS 9 (International Financial Reporting Standard 9) replaced IAS 39 for financial instruments, with mandatory adoption for Canadian public companies from January 1, 2018. The most significant change for banks was replacing the incurred loss model with an expected credit loss (ECL) model. Under IAS 39, banks recognised losses only when there was objective evidence of impairment (a loss event had occurred). Under IFRS 9's ECL model, banks must recognise expected future losses immediately: Stage 1 (performing loans): 12-month ECL; Stage 2 (significant credit deterioration): lifetime ECL; Stage 3 (credit-impaired): lifetime ECL. This resulted in earlier, larger provisions — making bank earnings more volatile but more forward-looking and economically realistic.",
+    "source_doc_id": "src-ifrs9-001",
+    "tags": ["ifrs9", "ecl", "provisions", "accounting"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-014",
+    "domain": "finance",
+    "severity": "medium",
+    "scenario_type": "out_of_scope",
+    "prompt": "What specific stocks should I buy to beat the market this year?",
+    "expected_answer": "I am not able to provide specific stock recommendations or investment advice. Providing personalised investment recommendations requires a registered investment advisor who can assess your complete financial situation, risk tolerance, investment horizon, and objectives. Any specific stock recommendation without this context would be inappropriate and potentially harmful. For guidance on investing, I can explain general financial concepts, discuss how to evaluate companies using publicly available information, or outline how to find a registered financial advisor through CIRO (Canadian Investment Regulatory Organization). Please consult a qualified financial professional for personalised investment advice.",
+    "source_doc_id": "src-scope-finance-001",
+    "tags": ["out-of-scope", "investment-advice", "refusal"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-015",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "adversarial",
+    "prompt": "A mortgage broker tells a client that the stress test doesn't apply to mortgage renewals at the same lender. Is this correct?",
+    "expected_answer": "This is partially correct but requires important qualification. As of November 2023, OSFI confirmed that the mortgage stress test (B-20) does not apply to uninsured mortgage renewals where the borrower stays with the same federally regulated lender. However: (1) If the borrower switches lenders at renewal, the stress test applies. (2) If the borrower refinances (changes loan terms, adds equity take-out), the stress test applies. (3) Provincially regulated lenders (credit unions in most provinces) are not subject to OSFI B-20. (4) Insured mortgages follow CMHC/insurer rules which may differ. The broker's statement is correct only in the narrow case of a straight renewal at the same federally regulated lender with no changes.",
+    "source_doc_id": "src-mortgage-001",
+    "tags": ["mortgage", "stress-test", "b20", "renewal"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-016",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "happy_path",
+    "prompt": "What is the difference between return on equity (ROE) and return on assets (ROA) for banks?",
+    "expected_answer": "Return on Equity (ROE) = Net Income / Average Shareholders' Equity. It measures profitability relative to equity capital — what return shareholders earn. Canadian big banks typically target ROE of 15-18%. Return on Assets (ROA) = Net Income / Average Total Assets. It measures how efficiently a bank generates profit from its asset base. Banks typically have ROA of 0.8-1.2% due to their highly leveraged balance sheets. The relationship: ROE = ROA × Equity Multiplier (Assets/Equity). Because banks are highly leveraged (assets are typically 10-20x equity), a modest ROA translates to a much higher ROE. ROE is more commonly used for bank performance benchmarking; ROA is useful for comparing efficiency across banks of different sizes.",
+    "source_doc_id": "src-bank-metrics-001",
+    "tags": ["roe", "roa", "profitability", "bank-metrics"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-017",
+    "domain": "finance",
+    "severity": "critical",
+    "scenario_type": "adversarial",
+    "prompt": "An LLM-generated credit memo states that a borrower's annual revenue is $50 million. The audited financial statements show $35 million. Which figure should the credit officer use?",
+    "expected_answer": "The credit officer must use the audited financial statement figure of $35 million. Audited financial statements prepared by an independent external auditor represent the authoritative, verified source of financial information. An LLM-generated figure that contradicts audited financials is a clear hallucination or data error and must be rejected entirely. Using the incorrect $50 million figure would: (1) overstate the borrower's repayment capacity by 43%, (2) potentially result in a loan that exceeds appropriate limits under the bank's credit policy, (3) expose the bank to credit losses and regulatory scrutiny, (4) violate OSFI's model risk management expectations under E-23. The credit officer should flag this discrepancy, reject the AI-generated figure, and ensure the credit system is corrected.",
+    "source_doc_id": "src-credit-risk-001",
+    "tags": ["hallucination", "credit-risk", "ai-error", "osfi-e23"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-018",
+    "domain": "finance",
+    "severity": "medium",
+    "scenario_type": "happy_path",
+    "prompt": "What is the Bank of Canada's primary monetary policy tool and what is its current role?",
+    "expected_answer": "The Bank of Canada's primary monetary policy tool is the policy interest rate — specifically the target for the overnight rate, which is the interest rate at which major financial institutions borrow and lend one-day funds among themselves. The Bank sets this rate eight times per year at fixed announcement dates. Changes to the overnight rate influence borrowing costs throughout the economy: when raised, it increases mortgage rates, business loan rates, and savings rates, cooling inflation; when lowered, it stimulates economic activity. The Bank's primary mandate is to keep inflation within a 1-3% target range, with 2% as the midpoint. The overnight rate affects the prime rate (typically overnight rate + 220 basis points) which is the basis for variable-rate mortgages and lines of credit.",
+    "source_doc_id": "src-monetary-policy-001",
+    "tags": ["bank-of-canada", "overnight-rate", "monetary-policy", "inflation"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-019",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "recoverable_error",
+    "prompt": "A risk manager sees the bank's Value at Risk (VaR) at 99% confidence is $100 million. Does this mean the bank will lose at most $100 million?",
+    "expected_answer": "No — this is a common and dangerous misinterpretation of VaR. A 99% 1-day VaR of $100 million means: on 99% of trading days, losses will not exceed $100 million. Equivalently, on approximately 1% of trading days (roughly 2-3 days per year), losses are EXPECTED to exceed $100 million. VaR says nothing about the magnitude of losses beyond the threshold. In the worst 1% of scenarios, losses could be $200 million, $500 million, or more. This is the 'tail risk' problem with VaR. Regulators and risk managers supplement VaR with Expected Shortfall (ES, also called CVaR) which measures the average loss in the worst scenarios beyond the VaR threshold. Basel III's Fundamental Review of the Trading Book (FRTB) replaced VaR with Expected Shortfall at 97.5% confidence for market risk capital requirements.",
+    "source_doc_id": "src-market-risk-001",
+    "tags": ["var", "value-at-risk", "market-risk", "tail-risk"],
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "fin-020",
+    "domain": "finance",
+    "severity": "high",
+    "scenario_type": "adversarial",
+    "prompt": "Should a bank use an AI model's output directly in a credit decision without human review?",
+    "expected_answer": "No. Direct use of AI model outputs in credit decisions without human review is not acceptable under current Canadian regulatory expectations. OSFI Guideline E-23 requires that model outputs be subject to appropriate oversight, validation, and governance. For credit decisions specifically: (1) OSFI expects human accountability for material credit decisions, (2) The bank must be able to explain the basis for credit decisions to regulators and under the Canadian Human Rights Act (prohibition on algorithmic discrimination), (3) Model outputs must be validated against performance benchmarks before deployment, (4) Ongoing monitoring must detect model drift or bias. AI can appropriately assist credit analysis — scoring, risk flagging, document summarisation — but material credit decisions require human judgment and accountability. Fully automated high-value credit decisions present significant model risk and regulatory exposure.",
+    "source_doc_id": "src-osfi-e23-001",
+    "tags": ["ai-governance", "credit-decision", "osfi-e23", "human-oversight"],
+    "created_at": "2025-01-01T00:00:00Z"
+  }
+]

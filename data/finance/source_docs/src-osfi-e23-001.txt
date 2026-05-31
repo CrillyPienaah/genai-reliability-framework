@@ -1,0 +1,25 @@
+OSFI Guideline E-23 — Model Risk Management
+
+SCOPE AND PURPOSE:
+OSFI Guideline E-23 establishes supervisory expectations for the identification, measurement, monitoring, and control of model risk at federally regulated financial institutions (FRFIs). It applies to all models used in decision-making, including statistical, mathematical, economic, and artificial intelligence/machine learning (AI/ML) models.
+
+DEFINITION OF A MODEL:
+E-23 defines a model broadly as a quantitative method, system, or approach that applies statistical, economic, financial, or mathematical theories, techniques, and assumptions to process input data into quantitative estimates. This definition explicitly encompasses AI and ML models, including large language models used in financial workflows.
+
+KEY REQUIREMENTS:
+1. Model Inventory: FRFIs must maintain a comprehensive inventory of all models.
+2. Model Development: Documentation of model purpose, methodology, assumptions, limitations, and data sources.
+3. Model Validation: Independent validation by parties not involved in model development. Validation must assess conceptual soundness, data quality, performance testing, and ongoing monitoring.
+4. Model Governance: Board and senior management accountability for model risk. Approval processes for model deployment and material changes.
+5. Ongoing Monitoring: Performance tracking against benchmarks; detection of model drift, bias, and degradation.
+6. Explainability: Models used in material decisions must be explainable to regulators, auditors, and affected parties.
+
+AI/ML SPECIFIC CONSIDERATIONS:
+For AI/ML models, E-23 requires particular attention to: data bias and representativeness, model interpretability, adversarial robustness, hallucination risk in generative AI, and the need for human oversight of AI-assisted decisions.
+
+Direct use of AI model outputs in material credit, trading, or risk decisions without human review and validation is not compliant with E-23's model governance expectations.
+
+AI models used to summarise financial documents, generate credit memos, or assess risk must have their outputs validated against source documents — numerical figures must match audited financial statements.
+
+ENFORCEMENT TIMELINE:
+E-23 is in force for all federally regulated financial institutions. The most recent update extended application to AI/ML systems, with full compliance expected by May 2027 for complex AI implementations.

@@ -1,0 +1,23 @@
+IFRS 9 — Expected Credit Loss Model
+
+TRANSITION FROM IAS 39:
+IFRS 9 Financial Instruments replaced IAS 39 effective January 1, 2018 for most Canadian public companies. The most significant change for banks and lenders was replacing the incurred loss model with the Expected Credit Loss (ECL) model.
+
+INCURRED LOSS MODEL (IAS 39 — old):
+Provisions recognised only when there was objective evidence of impairment — a loss event had already occurred (missed payment, borrower bankruptcy, etc.). This resulted in "too little, too late" provisioning — criticised after the 2008 financial crisis.
+
+EXPECTED CREDIT LOSS MODEL (IFRS 9 — current):
+Three-stage classification:
+Stage 1 (Performing): 12-month ECL. Loans where credit risk has not significantly increased since origination. Recognise 12 months of expected losses. Interest income calculated on gross carrying amount.
+
+Stage 2 (Significant Credit Risk Increase — SCRI): Lifetime ECL. Loans where credit risk has significantly increased but no objective evidence of impairment. Recognise lifetime expected losses. Still accruing interest on gross amount.
+
+Stage 3 (Credit-Impaired): Lifetime ECL. Objective evidence of impairment (default, restructuring, bankruptcy). Interest income calculated on net carrying amount (after ECL).
+
+KEY METRICS UNDER IFRS 9:
+Allowance for Credit Losses (ACL): Total balance sheet reserve for expected credit losses.
+Provision for Credit Losses (PCL): Income statement charge increasing the ACL.
+PCL Ratio: PCL / Average Loans. Industry average for Canadian banks: 0.25-0.50% in normal conditions; elevated in stress (0.50-1.0%+).
+
+IMPACT ON BANK EARNINGS:
+IFRS 9 made bank earnings more volatile — larger, earlier provisions in economic downturns (Stage 2 migrations) and potential reserve releases in recoveries. This is economically more accurate but harder for analysts to predict.

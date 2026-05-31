@@ -1,0 +1,24 @@
+Basel III Capital Requirements — Canadian Implementation (OSFI)
+
+COMMON EQUITY TIER 1 (CET1):
+The minimum CET1 ratio under Basel III is 4.5% of risk-weighted assets. OSFI requires an additional Capital Conservation Buffer of 2.5%, bringing the effective minimum to 7.0%.
+
+Domestic Systemically Important Banks (D-SIBs) in Canada — Royal Bank of Canada (RBC), Toronto-Dominion Bank (TD), Bank of Nova Scotia (BNZ/Scotiabank), Bank of Montreal (BMO), Canadian Imperial Bank of Commerce (CIBC), and National Bank — are subject to an additional D-SIB surcharge of 1.0%, bringing their effective minimum CET1 to 8.0%.
+
+OSFI's Supervisory Target (internal well-capitalised threshold) is typically above 11% CET1 for large Canadian banks.
+
+TIER 1 CAPITAL:
+Tier 1 capital = CET1 + Additional Tier 1 (AT1).
+CET1 components: common shares, retained earnings, accumulated other comprehensive income (AOCI), less regulatory deductions (goodwill, deferred tax assets, etc.).
+AT1 instruments: contingent convertible bonds (CoCos), preferred shares — must absorb losses on a going-concern basis.
+Minimum Tier 1 ratio: 6.0% (Basel III minimum) + conservation buffer = 8.5%.
+
+TIER 2 CAPITAL:
+Tier 2 is supplementary (gone-concern) capital: subordinated debt with minimum 5-year maturity, general loan loss provisions (up to 1.25% of RWA), certain hybrid instruments.
+Total Capital (Tier 1 + Tier 2) minimum: 8.0% + 2.5% conservation buffer = 10.5%.
+
+RISK-WEIGHTED ASSETS (RWA):
+Capital ratios are expressed as a percentage of risk-weighted assets. RWA weights assets by credit risk, market risk, and operational risk. A $100 mortgage might have 35% RWA = $35 effective RWA for capital purposes.
+
+CANADIAN D-SIB DESIGNATION:
+OSFI designates D-SIBs annually. Current D-SIBs: RBC, TD, Scotiabank, BMO, CIBC, National Bank. Each must hold 1% additional CET1 surcharge above the 7% minimum.

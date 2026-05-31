@@ -1,0 +1,35 @@
+OSFI Guideline B-20 — Residential Mortgage Underwriting Practices
+
+PURPOSE:
+B-20 sets out OSFI's expectations for sound residential mortgage underwriting and related risk management practices at federally regulated financial institutions (FRFIs).
+
+MORTGAGE STRESS TEST (KEY REQUIREMENT):
+All new uninsured residential mortgages must be underwritten at the higher of:
+(a) The Bank of Canada's 5-year conventional mortgage rate (benchmark rate), or
+(b) The contract rate plus 200 basis points (2.0%)
+
+This stress test ensures borrowers can continue servicing their mortgage if interest rates rise above the contracted rate.
+
+STRESS TEST APPLICABILITY:
+The stress test APPLIES to:
+- New uninsured mortgage originations
+- Refinances (changes to loan amount, amortization, or adding equity take-out)
+- Switches to a different federally regulated lender at renewal
+- New draws on existing home equity lines of credit (HELOCs)
+
+The stress test does NOT apply to:
+- Straight renewals at the same federally regulated lender (as confirmed by OSFI, November 2023)
+- Insured mortgages (which follow CMHC/insurer qualifying criteria)
+- Mortgages from provincially regulated lenders (credit unions, most trust companies)
+
+INCOME VERIFICATION:
+FRFIs must verify borrower income through reliable documentation (T4s, NOAs, pay stubs, business financials). Self-employed income requires additional documentation.
+
+DEBT SERVICE RATIOS:
+Gross Debt Service (GDS) ratio: housing costs (mortgage P&I, property tax, heating, 50% of condo fees) / gross income. Maximum: 39%.
+Total Debt Service (TDS) ratio: all debt obligations / gross income. Maximum: 44%.
+These limits apply at the stressed qualifying rate.
+
+LOAN-TO-VALUE (LTV):
+Maximum LTV for uninsured mortgages: 80% (requires 20% down payment).
+Properties over $1 million: cannot be insured, must be uninsured (20% minimum down).

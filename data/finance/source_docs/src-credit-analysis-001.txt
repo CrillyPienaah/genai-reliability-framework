@@ -1,0 +1,33 @@
+Credit Analysis — Financial Ratios and Interpretation
+
+LEVERAGE RATIOS:
+Debt-to-Equity (D/E) = Total Debt / Shareholders' Equity
+Measures financial leverage. Higher ratios indicate more debt relative to equity.
+
+INDUSTRY CONTEXT IS ESSENTIAL:
+- Capital-intensive industries (utilities, telecom, real estate, infrastructure): D/E ratios of 1.5-3.0x are normal and expected due to asset-heavy business models and stable cash flows supporting debt service.
+- Financial institutions (banks, insurance): Highly leveraged by nature; D/E ratios of 5-15x are common.
+- Technology/software companies: Generally low leverage; D/E above 0.5x may be noteworthy.
+- Consumer goods/retail: Moderate leverage; D/E of 0.5-1.5x typical.
+
+A D/E ratio of 2.5x cannot be assessed without knowing the industry. For a utility, 2.5x is moderate. For a tech company, it would be elevated.
+
+COMPLEMENTARY METRICS:
+Interest Coverage Ratio = EBIT / Interest Expense
+>3x: Generally adequate debt service capacity
+1-3x: Moderate; monitor closely
+<1x: Cannot cover interest from operations — distress signal
+
+Debt Service Coverage Ratio (DSCR) = Operating Cash Flow / (Principal + Interest)
+>1.25x: Generally acceptable for commercial lending
+<1.0x: Cannot service debt from operations
+
+Net Debt / EBITDA:
+<2.0x: Conservative
+2.0-4.0x: Moderate
+>4.0x: Elevated; approaching speculative territory
+
+CREDIT RATING FRAMEWORK:
+Investment grade: BBB- and above (S&P/Fitch) or Baa3 and above (Moody's)
+Speculative/high-yield: BB+ and below
+Credit analysis should incorporate rating agency assessments alongside internal financial ratio analysis.
