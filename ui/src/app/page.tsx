@@ -39,6 +39,34 @@ const SEED_RUNS: LeaderboardEntry[] = [
     p95_latency_ms: 6397,
     ci_gate_passed: true,
   },
+  {
+    run_id: '1a21e512-ab27-476c-9643-efec4c67428b',
+    model_display_name: 'Claude Sonnet 4.6',
+    model_id: 'claude-sonnet-4-6',
+    domain: 'medical',
+    accuracy_mean: 0.907,
+    accuracy_ci_lower: 0.827,
+    accuracy_ci_upper: 0.973,
+    hallucination_rate_mean: 0.333,
+    grounding_score_mean: 0.950,
+    avg_cost_usd: 0.0072,
+    p95_latency_ms: 11093,
+    ci_gate_passed: true,
+  },
+  {
+    run_id: '1a21e512-ab27-476c-9643-efec4c67428b',
+    model_display_name: 'Claude Sonnet 4.6',
+    model_id: 'claude-sonnet-4-6',
+    domain: 'medical',
+    accuracy_mean: 0.907,
+    accuracy_ci_lower: 0.827,
+    accuracy_ci_upper: 0.973,
+    hallucination_rate_mean: 0.333,
+    grounding_score_mean: 0.950,
+    avg_cost_usd: 0.0072,
+    p95_latency_ms: 11093,
+    ci_gate_passed: true,
+  },
   // Placeholder rows — populated when you run more models
   {
     run_id: 'pending-gpt4o',
@@ -327,6 +355,8 @@ export default function Home() {
     </div>
   )
 }
+
+
 
 
 
